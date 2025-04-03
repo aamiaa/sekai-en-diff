@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "Gacha Ticket",
+        "assetbundleName": "gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 2,
+        "name": "3★ or Higher Guaranteed Ticket",
+        "assetbundleName": "over_the_3_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 3,
+        "name": "JP Version 1st Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 4,
+        "name": "2023 New Year 10x Free Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 5,
+        "name": "Miku Day Campaign Gacha Ticket",
+        "assetbundleName": "gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 6,
+        "name": "JP 2nd Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 7,
+        "name": "2024 New Year 10x Free Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 8,
+        "name": "JP 2.5 Year Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 9,
+        "name": "[Friend Invitation] 4★ Character Guaranteed Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 11,
+        "name": "[Friend Invitation] 4★ Character Guaranteed Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 12,
+        "name": "Beginner's 1 Guaranteed 4★ Character 10x Gacha Ticket",
+        "assetbundleName": "gacha_10_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 13,
+        "name": "JP 3rd Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 14,
+        "name": "2025 New Year 10x Free Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 15,
+        "name": "JP 3.5Y 10x Free Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 16,
+        "name": "JP 3.5Y 4★ Character Guaranteed Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 100001,
+        "name": "1st Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100002,
+        "name": "2nd Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100004,
+        "name": "9M DLs! Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4_01_gl",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 100005,
+        "name": "Miku Day 2024 10x Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100006,
+        "name": "3900's 10x Free Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100007,
+        "name": "2.5 Year Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100008,
+        "name": "[Friend Invitation] 4★ Character Guaranteed Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 100009,
+        "name": "AX24 Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4_01_gl",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100010,
+        "name": "Summer 2024 10x Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100011,
+        "name": "12M DLs! Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4_01_gl",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100012,
+        "name": "Fall 2024 10x Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100013,
+        "name": "3rd Anniversary 10x Free Gacha Ticket",
+        "assetbundleName": "anniversary_free_gacha_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100014,
+        "name": "[Friend Invitation] 4★ Character Guaranteed Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4",
+        "gachaDisplayType": "having"
+    },
+    {
+        "id": 100015,
+        "name": "13M DLs! Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4_01_gl",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100016,
+        "name": "Winter 2025 10x Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100017,
+        "name": "14M DLs! 10x Gacha Ticket",
+        "assetbundleName": "free_gacha_10_ticket",
+        "gachaDisplayType": "always"
+    },
+    {
+        "id": 100018,
+        "name": "14 Million Downloads! 4★ Guaranteed Gacha Ticket",
+        "assetbundleName": "gacha_ticket_star4_01_gl",
+        "gachaDisplayType": "having"
+    }
+]

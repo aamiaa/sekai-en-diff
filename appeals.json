@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "seq": 1,
+        "appealTargetType": "billing_shop",
+        "appealType": "ever",
+        "startAt": 1646262000000,
+        "endAt": 4078763999000,
+        "text": "SHOP"
+    }
+]
