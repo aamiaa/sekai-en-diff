@@ -35,8 +35,11 @@ jobs:
           ref: ${{ github.head_ref }}
           path: ./repo
 
-      - name: Install dependencies
+      - name: Install action dependencies
         run: npm install --prefix ./action
+
+      - name: Install api dependencies
+        run: npm install --prefix ./sekai-api
 
       - name: Get env variables
         uses: oNaiPs/secrets-to-env-action@v1
