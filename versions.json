@@ -393,9 +393,19 @@
         "systemProfile": "production",
         "appVersion": "3.4.0",
         "multiPlayVersion": "luka",
-        "dataVersion": "3.4.0.10",
-        "assetVersion": "3.4.0.10",
+        "dataVersion": "3.4.1.0",
+        "assetVersion": "3.4.1.0",
         "appHash": "15746f60-86e6-404f-85cf-08523ba59f39",
+        "assetHash": "69bbc269-304d-4bea-982b-5f37c024104f",
+        "appVersionStatus": "available"
+    },
+    {
+        "systemProfile": "production",
+        "appVersion": "3.4.1",
+        "multiPlayVersion": "luka",
+        "dataVersion": "3.4.1.0",
+        "assetVersion": "3.4.1.0",
+        "appHash": "2528489c-ed3e-4454-a5a3-3ce65adc7c9a",
         "assetHash": "69bbc269-304d-4bea-982b-5f37c024104f",
         "appVersionStatus": "available"
     }
