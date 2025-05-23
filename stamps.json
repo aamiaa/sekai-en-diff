@@ -8090,6 +8090,18 @@
         "description": "Join the To One Day Reach that Flowery Stage After Show."
     },
     {
+        "id": 740,
+        "stampType": "illustration",
+        "seq": 10010,
+        "name": "[Stamp] Emu: Mmmmm...",
+        "assetbundleName": "stamp0740",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 14,
+        "gameCharacterUnitId": 14,
+        "archivePublishedAt": 1748037600000,
+        "description": "Join the Perspective for Smile After Show."
+    },
+    {
         "id": 741,
         "stampType": "illustration",
         "seq": 9620,
@@ -8774,6 +8786,18 @@
         "description": "JP 3.5Y Exchange lineup. (Mar. 30, 2025 - May 14, 2025)"
     },
     {
+        "id": 798,
+        "stampType": "illustration",
+        "seq": 10050,
+        "name": "[Stamp] Minori: Ta-daaa!",
+        "assetbundleName": "stamp0798",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 5,
+        "gameCharacterUnitId": 5,
+        "archivePublishedAt": 1748728800000,
+        "description": "Join the Stream With Friends♡ Wedding Live! After Show."
+    },
+    {
         "id": 874,
         "stampType": "illustration",
         "seq": 10690,
@@ -8802,7 +8826,7 @@
         "id": 101031,
         "stampType": "illustration",
         "seq": 7140,
-        "name": "[Stamp] Ichika & Honami: Perfect score!",
+        "name": "[Stamp] Ichika & Honami: Perfect!",
         "assetbundleName": "stamp101031",
         "balloonAssetbundleName": "balloon_stamp_01",
         "characterId1": 1,
@@ -8917,6 +8941,18 @@
         "characterId2": 18,
         "archivePublishedAt": 1727672400000,
         "description": "Increase Ichika & Mafuyu's Trust Rank to 66."
+    },
+    {
+        "id": 101191,
+        "stampType": "illustration",
+        "seq": 10020,
+        "name": "[Stamp] Ichika & Ena: Ena, one more time!",
+        "assetbundleName": "stamp101191",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 1,
+        "characterId2": 19,
+        "archivePublishedAt": 1748718000000,
+        "description": "Increase Ichika & Ena's Trust Rank to 66."
     },
     {
         "id": 101211,
@@ -10155,6 +10191,18 @@
         "description": "Increase Akito & Tsukasa's Trust Rank to 66."
     },
     {
+        "id": 111141,
+        "stampType": "illustration",
+        "seq": 10030,
+        "name": "[Stamp] Akito & Emu: Hey, cool it",
+        "assetbundleName": "stamp111141",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 11,
+        "characterId2": 14,
+        "archivePublishedAt": 1748718000000,
+        "description": "Increase Akito & Emu's Trust Rank to 66."
+    },
+    {
         "id": 111151,
         "stampType": "illustration",
         "seq": 9240,
@@ -10194,7 +10242,7 @@
         "id": 111201,
         "stampType": "illustration",
         "seq": 8240,
-        "name": "[Stamp] Akito and Mizuki: Here we go, Li'l Bro!",
+        "name": "[Stamp] Akito & Mizuki: Here we go, Li'l Bro!",
         "assetbundleName": "stamp111201",
         "balloonAssetbundleName": "balloon_stamp_01",
         "characterId1": 11,
@@ -10285,6 +10333,18 @@
         "characterId2": 13,
         "archivePublishedAt": 1727672400000,
         "description": "Increase Toya & Tsukasa's Trust Rank to 66."
+    },
+    {
+        "id": 112141,
+        "stampType": "illustration",
+        "seq": 10040,
+        "name": "[Stamp] Toya & Emu: Impressive Puyo popping, Otori",
+        "assetbundleName": "stamp112141",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 12,
+        "characterId2": 14,
+        "archivePublishedAt": 1748718000000,
+        "description": "Increase Toya & Emu's Trust Rank to 66."
     },
     {
         "id": 112151,
