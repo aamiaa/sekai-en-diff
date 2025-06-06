@@ -297,14 +297,14 @@
         "systemProfile": "production",
         "appVersion": "3.6.0",
         "multiPlayVersion": "miku",
-        "assetVersion": "3.6.0.0",
+        "assetVersion": "3.6.1.0",
         "appVersionStatus": "available"
     },
     {
         "systemProfile": "production",
         "appVersion": "3.6.1",
         "multiPlayVersion": "miku",
-        "assetVersion": "3.6.0.0",
+        "assetVersion": "3.6.1.0",
         "appVersionStatus": "available"
     }
 ]
