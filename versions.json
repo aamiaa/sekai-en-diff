@@ -311,7 +311,7 @@
         "systemProfile": "production",
         "appVersion": "3.7.0",
         "multiPlayVersion": "rin",
-        "assetVersion": "3.7.1.0",
+        "assetVersion": "3.7.1.10",
         "appVersionStatus": "available"
     }
 ]
