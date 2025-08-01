@@ -312,6 +312,13 @@
         "appVersion": "3.7.0",
         "multiPlayVersion": "rin",
         "assetVersion": "3.7.1.20",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "production",
+        "appVersion": "3.8.0",
+        "multiPlayVersion": "len",
+        "assetVersion": "3.8.0.0",
         "appVersionStatus": "available"
     }
 ]
