@@ -318,7 +318,14 @@
         "systemProfile": "production",
         "appVersion": "3.8.0",
         "multiPlayVersion": "len",
-        "assetVersion": "3.8.0.0",
+        "assetVersion": "3.8.0.10",
+        "appVersionStatus": "available"
+    },
+    {
+        "systemProfile": "production",
+        "appVersion": "3.8.1",
+        "multiPlayVersion": "len",
+        "assetVersion": "3.8.0.10",
         "appVersionStatus": "available"
     }
 ]
