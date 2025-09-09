@@ -316,6 +316,13 @@
     },
     {
         "systemProfile": "production",
+        "appVersion": "3.8.0",
+        "multiPlayVersion": "len",
+        "assetVersion": "3.8.1.10",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "production",
         "appVersion": "3.8.5",
         "multiPlayVersion": "luka",
         "assetVersion": "3.8.51.0",
