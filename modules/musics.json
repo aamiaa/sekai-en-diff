@@ -10689,6 +10689,54 @@
         "isFullLength": false
     },
     {
+        "id": 476,
+        "seq": 1655601,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "Shadow Shadow",
+        "pronunciation": "shadowshadow",
+        "creatorArtistId": 259,
+        "lyricist": "Azari",
+        "composer": "Azari",
+        "arranger": "Azari",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_476",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1760047200000,
+        "releasedAt": 1632729600000,
+        "liveStageId": 1,
+        "fillerSec": 8.5556001663208,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 477,
+        "seq": 1254801,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "Mozaik Role (Reloaded)",
+        "pronunciation": "mozaikrolereloaded",
+        "creatorArtistId": 4,
+        "lyricist": "DECO*27",
+        "composer": "DECO*27",
+        "arranger": "Rockwell",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_477",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759356000000,
+        "releasedAt": 1633680000000,
+        "liveStageId": 1,
+        "fillerSec": 8.996199607849121,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 479,
         "seq": 1129901,
         "releaseConditionId": 5,
@@ -10878,6 +10926,30 @@
         "liveStageId": 1,
         "fillerSec": 9,
         "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 489,
+        "seq": 2754701,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "hot wind",
+        "pronunciation": "hotwind",
+        "creatorArtistId": 75,
+        "lyricist": "kemu",
+        "composer": "kemu",
+        "arranger": "kemu",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_489",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759215600000,
+        "releasedAt": 1727683200000,
+        "liveStageId": 1,
+        "fillerSec": 6.5,
+        "isNewlyWrittenMusic": true,
         "isFullLength": false
     },
     {
@@ -11124,6 +11196,30 @@
         "isFullLength": false
     },
     {
+        "id": 505,
+        "seq": 1455201,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Call Boy",
+        "pronunciation": "callboy",
+        "creatorArtistId": 28,
+        "lyricist": "syudou",
+        "composer": "syudou",
+        "arranger": "syudou",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_505",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759701600000,
+        "releasedAt": 1555142400000,
+        "liveStageId": 1,
+        "fillerSec": 9,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 506,
         "seq": 1553701,
         "releaseConditionId": 5,
@@ -11169,6 +11265,30 @@
         "liveStageId": 1,
         "fillerSec": 8.111100196838379,
         "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 511,
+        "seq": 1355001,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "KISARAGI ATTENTION",
+        "pronunciation": "kisaragiattention",
+        "creatorArtistId": 29,
+        "lyricist": "JIN",
+        "composer": "JIN",
+        "arranger": "JIN",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_511",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759528800000,
+        "releasedAt": 1338105600000,
+        "liveStageId": 1,
+        "fillerSec": 8.994199752807617,
+        "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
     {
@@ -11340,6 +11460,30 @@
         "isFullLength": false
     },
     {
+        "id": 523,
+        "seq": 1155301,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "Resonance Between You and Me.",
+        "pronunciation": "resonancebetweenyouandme",
+        "creatorArtistId": 257,
+        "lyricist": "Nanameue-P",
+        "composer": "Nanameue-P",
+        "arranger": "Nanameue-P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_523",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759788000000,
+        "releasedAt": 1596787200000,
+        "liveStageId": 1,
+        "fillerSec": 9,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 524,
         "seq": 2254501,
         "releaseConditionId": 10,
@@ -11484,6 +11628,30 @@
         "isFullLength": false
     },
     {
+        "id": 531,
+        "seq": 1154901,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "Mesmerizer",
+        "pronunciation": "mesmerizer",
+        "creatorArtistId": 207,
+        "lyricist": "32ki",
+        "composer": "32ki",
+        "arranger": "32ki",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_531",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759442400000,
+        "releasedAt": 1714204800000,
+        "liveStageId": 1,
+        "fillerSec": 9,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 532,
         "seq": 1154401,
         "releaseConditionId": 5,
@@ -11508,6 +11676,30 @@
         "isFullLength": false
     },
     {
+        "id": 533,
+        "seq": 1555401,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "Reincarnation Apple",
+        "pronunciation": "reincarnationapple",
+        "creatorArtistId": 25,
+        "lyricist": "PinocchioP",
+        "composer": "PinocchioP",
+        "arranger": "PinocchioP",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_533",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759874400000,
+        "releasedAt": 1654243200000,
+        "liveStageId": 1,
+        "fillerSec": 9,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 535,
         "seq": 1134501,
         "releaseConditionId": 5,
@@ -11526,6 +11718,54 @@
         "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
         "publishedAt": 1725141600000,
         "releasedAt": 1691136000000,
+        "liveStageId": 1,
+        "fillerSec": 9,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 541,
+        "seq": 1155101,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "Main Character",
+        "pronunciation": "maincharacter",
+        "creatorArtistId": 99,
+        "lyricist": "*Luna",
+        "composer": "*Luna",
+        "arranger": "*Luna",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_541",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759615200000,
+        "releasedAt": 1461398400000,
+        "liveStageId": 1,
+        "fillerSec": 9.156299591064453,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 542,
+        "seq": 1155501,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Blackjack",
+        "pronunciation": "blackjack",
+        "creatorArtistId": 258,
+        "lyricist": "YuchaP",
+        "composer": "YuchaP",
+        "arranger": "YuchaP",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_542",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759960800000,
+        "releasedAt": 1288857600000,
         "liveStageId": 1,
         "fillerSec": 9,
         "isNewlyWrittenMusic": false,
