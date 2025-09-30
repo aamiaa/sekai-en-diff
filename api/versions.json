@@ -326,13 +326,13 @@
         "appVersion": "3.8.5",
         "multiPlayVersion": "luka",
         "assetVersion": "3.8.51.20",
-        "appVersionStatus": "not_available"
+        "appVersionStatus": "available"
     },
     {
         "systemProfile": "production",
         "appVersion": "4.0.0",
         "multiPlayVersion": "meiko",
-        "assetVersion": "4.0.0.1",
+        "assetVersion": "4.0.0.10",
         "appVersionStatus": "available"
     }
 ]
