@@ -333,7 +333,7 @@
         "appVersion": "4.0.0",
         "multiPlayVersion": "meiko",
         "assetVersion": "4.0.1.0",
-        "appVersionStatus": "available"
+        "appVersionStatus": "not_available"
     },
     {
         "systemProfile": "production",
