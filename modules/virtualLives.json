@@ -255114,12 +255114,6 @@
                 "virtualLiveType": "normal",
                 "virtualLiveId": 312,
                 "resourceBoxId": 530
-            },
-            {
-                "id": 609,
-                "virtualLiveType": "paid",
-                "virtualLiveId": 312,
-                "resourceBoxId": 571
             }
         ],
         "virtualLiveCheerPointRewards": [],
@@ -261358,12 +261352,6 @@
                 "virtualLiveType": "normal",
                 "virtualLiveId": 319,
                 "resourceBoxId": 544
-            },
-            {
-                "id": 610,
-                "virtualLiveType": "paid",
-                "virtualLiveId": 319,
-                "resourceBoxId": 572
             }
         ],
         "virtualLiveCheerPointRewards": [],
@@ -263094,12 +263082,6 @@
                 "virtualLiveType": "normal",
                 "virtualLiveId": 321,
                 "resourceBoxId": 547
-            },
-            {
-                "id": 611,
-                "virtualLiveType": "paid",
-                "virtualLiveId": 321,
-                "resourceBoxId": 573
             }
         ],
         "virtualLiveCheerPointRewards": [],
@@ -263898,12 +263880,6 @@
                 "virtualLiveType": "normal",
                 "virtualLiveId": 322,
                 "resourceBoxId": 548
-            },
-            {
-                "id": 612,
-                "virtualLiveType": "paid",
-                "virtualLiveId": 322,
-                "resourceBoxId": 574
             }
         ],
         "virtualLiveCheerPointRewards": [],
