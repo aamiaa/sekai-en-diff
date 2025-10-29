@@ -340,6 +340,13 @@
         "appVersion": "4.0.1",
         "multiPlayVersion": "meiko",
         "assetVersion": "4.0.1.20",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "production",
+        "appVersion": "4.1.0",
+        "multiPlayVersion": "miku",
+        "assetVersion": "4.1.0.1",
         "appVersionStatus": "available"
     }
 ]
