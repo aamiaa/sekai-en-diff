@@ -346,7 +346,7 @@
         "systemProfile": "production",
         "appVersion": "4.1.0",
         "multiPlayVersion": "miku",
-        "assetVersion": "4.1.0.1",
+        "assetVersion": "4.1.1.0",
         "appVersionStatus": "available"
     }
 ]
