@@ -51567,6 +51567,15 @@
         "description": "「志歩と杏」レアリティ1-1"
     },
     {
+        "id": 10410005,
+        "bondsGroupId": 10410,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041002,
+        "description": "「志歩と杏」称号文言1"
+    },
+    {
         "id": 10410006,
         "bondsGroupId": 10410,
         "rank": 5,
@@ -51666,6 +51675,14 @@
         "description": "「志歩と杏」レアリティ1-3"
     },
     {
+        "id": 10410017,
+        "bondsGroupId": 10410,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Shiho & An Show Call Out Voice 1"
+    },
+    {
         "id": 10410018,
         "bondsGroupId": 10410,
         "rank": 16,
@@ -51754,6 +51771,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1041007,
         "description": "「志歩と杏」レアリティ1-5"
+    },
+    {
+        "id": 10410028,
+        "bondsGroupId": 10410,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041008,
+        "description": "「志歩と杏」称号文言2"
     },
     {
         "id": 10410029,
@@ -51846,6 +51872,14 @@
         "description": "「志歩と杏」レアリティ2-2"
     },
     {
+        "id": 10410039,
+        "bondsGroupId": 10410,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Shiho & An Show Call Out Voice 2"
+    },
+    {
         "id": 10410040,
         "bondsGroupId": 10410,
         "rank": 36,
@@ -51934,6 +51968,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1041012,
         "description": "「志歩と杏」レアリティ2-4"
+    },
+    {
+        "id": 10410050,
+        "bondsGroupId": 10410,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041013,
+        "description": "「志歩と杏」称号文言3"
     },
     {
         "id": 10410051,
@@ -52026,6 +52069,14 @@
         "description": "「志歩と杏」レアリティ2-6"
     },
     {
+        "id": 10410061,
+        "bondsGroupId": 10410,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Shiho & An Show Call Out Voice 3"
+    },
+    {
         "id": 10410062,
         "bondsGroupId": 10410,
         "rank": 56,
@@ -52114,6 +52165,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1041017,
         "description": "「志歩と杏」レアリティ2-8"
+    },
+    {
+        "id": 10410072,
+        "bondsGroupId": 10410,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041018,
+        "description": "「志歩と杏」キズナスタンプ"
     },
     {
         "id": 10410073,
@@ -71661,6 +71721,15 @@
         "description": "「みのりと絵名」レアリティ1-1"
     },
     {
+        "id": 10519005,
+        "bondsGroupId": 10519,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1051902,
+        "description": "「みのりと絵名」称号文言1"
+    },
+    {
         "id": 10519006,
         "bondsGroupId": 10519,
         "rank": 5,
@@ -71760,6 +71829,14 @@
         "description": "「みのりと絵名」レアリティ1-3"
     },
     {
+        "id": 10519017,
+        "bondsGroupId": 10519,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Minori & Ena Show Call Out Voice 1"
+    },
+    {
         "id": 10519018,
         "bondsGroupId": 10519,
         "rank": 16,
@@ -71848,6 +71925,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1051907,
         "description": "「みのりと絵名」レアリティ1-5"
+    },
+    {
+        "id": 10519028,
+        "bondsGroupId": 10519,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1051908,
+        "description": "「みのりと絵名」称号文言2"
     },
     {
         "id": 10519029,
@@ -71940,6 +72026,14 @@
         "description": "「みのりと絵名」レアリティ2-2"
     },
     {
+        "id": 10519039,
+        "bondsGroupId": 10519,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Minori & Ena Show Call Out Voice 2"
+    },
+    {
         "id": 10519040,
         "bondsGroupId": 10519,
         "rank": 36,
@@ -72028,6 +72122,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1051912,
         "description": "「みのりと絵名」レアリティ2-4"
+    },
+    {
+        "id": 10519050,
+        "bondsGroupId": 10519,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1051913,
+        "description": "「みのりと絵名」称号文言3"
     },
     {
         "id": 10519051,
@@ -72120,6 +72223,14 @@
         "description": "「みのりと絵名」レアリティ2-6"
     },
     {
+        "id": 10519061,
+        "bondsGroupId": 10519,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Minori & Ena Show Call Out Voice 3"
+    },
+    {
         "id": 10519062,
         "bondsGroupId": 10519,
         "rank": 56,
@@ -72208,6 +72319,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1051917,
         "description": "「みのりと絵名」レアリティ2-8"
+    },
+    {
+        "id": 10519072,
+        "bondsGroupId": 10519,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1051918,
+        "description": "「みのりと絵名」キズナスタンプ"
     },
     {
         "id": 10519073,
@@ -117828,6 +117948,15 @@
         "description": "「こはねとえむ」レアリティ1-1"
     },
     {
+        "id": 10914005,
+        "bondsGroupId": 10914,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1091402,
+        "description": "「こはねとえむ」称号文言1"
+    },
+    {
         "id": 10914006,
         "bondsGroupId": 10914,
         "rank": 5,
@@ -117927,6 +118056,14 @@
         "description": "「こはねとえむ」レアリティ1-3"
     },
     {
+        "id": 10914017,
+        "bondsGroupId": 10914,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Kohane & Emu Show Call Out Voice 1"
+    },
+    {
         "id": 10914018,
         "bondsGroupId": 10914,
         "rank": 16,
@@ -118015,6 +118152,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1091407,
         "description": "「こはねとえむ」レアリティ1-5"
+    },
+    {
+        "id": 10914028,
+        "bondsGroupId": 10914,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1091408,
+        "description": "「こはねとえむ」称号文言2"
     },
     {
         "id": 10914029,
@@ -118107,6 +118253,14 @@
         "description": "「こはねとえむ」レアリティ2-2"
     },
     {
+        "id": 10914039,
+        "bondsGroupId": 10914,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Kohane & Emu Show Call Out Voice 2"
+    },
+    {
         "id": 10914040,
         "bondsGroupId": 10914,
         "rank": 36,
@@ -118195,6 +118349,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1091412,
         "description": "「こはねとえむ」レアリティ2-4"
+    },
+    {
+        "id": 10914050,
+        "bondsGroupId": 10914,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1091413,
+        "description": "「こはねとえむ」称号文言3"
     },
     {
         "id": 10914051,
@@ -118287,6 +118450,14 @@
         "description": "「こはねとえむ」レアリティ2-6"
     },
     {
+        "id": 10914061,
+        "bondsGroupId": 10914,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Kohane & Emu Show Call Out Voice 3"
+    },
+    {
         "id": 10914062,
         "bondsGroupId": 10914,
         "rank": 56,
@@ -118375,6 +118546,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1091417,
         "description": "「こはねとえむ」レアリティ2-8"
+    },
+    {
+        "id": 10914072,
+        "bondsGroupId": 10914,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1091418,
+        "description": "「こはねとえむ」キズナスタンプ"
     },
     {
         "id": 10914073,
