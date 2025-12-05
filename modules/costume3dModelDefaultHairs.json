@@ -320796,6 +320796,750 @@
         "unit": "piapro"
     },
     {
+        "id": 80600001,
+        "headCostume3dId": 8060001,
+        "hairCostume3dId": 201,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600002,
+        "headCostume3dId": 8060003,
+        "hairCostume3dId": 201,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600003,
+        "headCostume3dId": 8060005,
+        "hairCostume3dId": 201,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600004,
+        "headCostume3dId": 8060007,
+        "hairCostume3dId": 201,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600005,
+        "headCostume3dId": 8060009,
+        "hairCostume3dId": 202,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600006,
+        "headCostume3dId": 8060011,
+        "hairCostume3dId": 202,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600007,
+        "headCostume3dId": 8060013,
+        "hairCostume3dId": 202,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600008,
+        "headCostume3dId": 8060015,
+        "hairCostume3dId": 202,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600009,
+        "headCostume3dId": 8060017,
+        "hairCostume3dId": 203,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600010,
+        "headCostume3dId": 8060019,
+        "hairCostume3dId": 203,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600011,
+        "headCostume3dId": 8060021,
+        "hairCostume3dId": 203,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600012,
+        "headCostume3dId": 8060023,
+        "hairCostume3dId": 203,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600013,
+        "headCostume3dId": 8060025,
+        "hairCostume3dId": 204,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600014,
+        "headCostume3dId": 8060027,
+        "hairCostume3dId": 204,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600015,
+        "headCostume3dId": 8060029,
+        "hairCostume3dId": 204,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600016,
+        "headCostume3dId": 8060031,
+        "hairCostume3dId": 204,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600017,
+        "headCostume3dId": 8060033,
+        "hairCostume3dId": 205,
+        "unit": "idol"
+    },
+    {
+        "id": 80600018,
+        "headCostume3dId": 8060035,
+        "hairCostume3dId": 205,
+        "unit": "idol"
+    },
+    {
+        "id": 80600019,
+        "headCostume3dId": 8060037,
+        "hairCostume3dId": 205,
+        "unit": "idol"
+    },
+    {
+        "id": 80600020,
+        "headCostume3dId": 8060039,
+        "hairCostume3dId": 205,
+        "unit": "idol"
+    },
+    {
+        "id": 80600021,
+        "headCostume3dId": 8060041,
+        "hairCostume3dId": 206,
+        "unit": "idol"
+    },
+    {
+        "id": 80600022,
+        "headCostume3dId": 8060043,
+        "hairCostume3dId": 206,
+        "unit": "idol"
+    },
+    {
+        "id": 80600023,
+        "headCostume3dId": 8060045,
+        "hairCostume3dId": 206,
+        "unit": "idol"
+    },
+    {
+        "id": 80600024,
+        "headCostume3dId": 8060047,
+        "hairCostume3dId": 206,
+        "unit": "idol"
+    },
+    {
+        "id": 80600025,
+        "headCostume3dId": 8060049,
+        "hairCostume3dId": 207,
+        "unit": "idol"
+    },
+    {
+        "id": 80600026,
+        "headCostume3dId": 8060051,
+        "hairCostume3dId": 207,
+        "unit": "idol"
+    },
+    {
+        "id": 80600027,
+        "headCostume3dId": 8060053,
+        "hairCostume3dId": 207,
+        "unit": "idol"
+    },
+    {
+        "id": 80600028,
+        "headCostume3dId": 8060055,
+        "hairCostume3dId": 207,
+        "unit": "idol"
+    },
+    {
+        "id": 80600029,
+        "headCostume3dId": 8060057,
+        "hairCostume3dId": 208,
+        "unit": "idol"
+    },
+    {
+        "id": 80600030,
+        "headCostume3dId": 8060059,
+        "hairCostume3dId": 208,
+        "unit": "idol"
+    },
+    {
+        "id": 80600031,
+        "headCostume3dId": 8060061,
+        "hairCostume3dId": 208,
+        "unit": "idol"
+    },
+    {
+        "id": 80600032,
+        "headCostume3dId": 8060063,
+        "hairCostume3dId": 208,
+        "unit": "idol"
+    },
+    {
+        "id": 80600033,
+        "headCostume3dId": 8060065,
+        "hairCostume3dId": 209,
+        "unit": "street"
+    },
+    {
+        "id": 80600034,
+        "headCostume3dId": 8060067,
+        "hairCostume3dId": 209,
+        "unit": "street"
+    },
+    {
+        "id": 80600035,
+        "headCostume3dId": 8060069,
+        "hairCostume3dId": 209,
+        "unit": "street"
+    },
+    {
+        "id": 80600036,
+        "headCostume3dId": 8060071,
+        "hairCostume3dId": 209,
+        "unit": "street"
+    },
+    {
+        "id": 80600037,
+        "headCostume3dId": 8060073,
+        "hairCostume3dId": 210,
+        "unit": "street"
+    },
+    {
+        "id": 80600038,
+        "headCostume3dId": 8060075,
+        "hairCostume3dId": 210,
+        "unit": "street"
+    },
+    {
+        "id": 80600039,
+        "headCostume3dId": 8060077,
+        "hairCostume3dId": 210,
+        "unit": "street"
+    },
+    {
+        "id": 80600040,
+        "headCostume3dId": 8060079,
+        "hairCostume3dId": 210,
+        "unit": "street"
+    },
+    {
+        "id": 80600041,
+        "headCostume3dId": 8060081,
+        "hairCostume3dId": 214,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600042,
+        "headCostume3dId": 8060083,
+        "hairCostume3dId": 214,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600043,
+        "headCostume3dId": 8060085,
+        "hairCostume3dId": 214,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600044,
+        "headCostume3dId": 8060087,
+        "hairCostume3dId": 214,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600045,
+        "headCostume3dId": 8060089,
+        "hairCostume3dId": 215,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600046,
+        "headCostume3dId": 8060091,
+        "hairCostume3dId": 215,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600047,
+        "headCostume3dId": 8060093,
+        "hairCostume3dId": 215,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600048,
+        "headCostume3dId": 8060095,
+        "hairCostume3dId": 215,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600049,
+        "headCostume3dId": 8060097,
+        "hairCostume3dId": 217,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600050,
+        "headCostume3dId": 8060099,
+        "hairCostume3dId": 217,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600051,
+        "headCostume3dId": 8060101,
+        "hairCostume3dId": 217,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600052,
+        "headCostume3dId": 8060103,
+        "hairCostume3dId": 217,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600053,
+        "headCostume3dId": 8060105,
+        "hairCostume3dId": 218,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600054,
+        "headCostume3dId": 8060107,
+        "hairCostume3dId": 218,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600055,
+        "headCostume3dId": 8060109,
+        "hairCostume3dId": 218,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600056,
+        "headCostume3dId": 8060111,
+        "hairCostume3dId": 218,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600057,
+        "headCostume3dId": 8060113,
+        "hairCostume3dId": 219,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600058,
+        "headCostume3dId": 8060115,
+        "hairCostume3dId": 219,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600059,
+        "headCostume3dId": 8060117,
+        "hairCostume3dId": 219,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600060,
+        "headCostume3dId": 8060119,
+        "hairCostume3dId": 219,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600061,
+        "headCostume3dId": 8060121,
+        "hairCostume3dId": 220,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600062,
+        "headCostume3dId": 8060123,
+        "hairCostume3dId": 220,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600063,
+        "headCostume3dId": 8060125,
+        "hairCostume3dId": 220,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600064,
+        "headCostume3dId": 8060127,
+        "hairCostume3dId": 220,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600065,
+        "headCostume3dId": 8060129,
+        "hairCostume3dId": 221,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600066,
+        "headCostume3dId": 8060129,
+        "hairCostume3dId": 221,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600067,
+        "headCostume3dId": 8060129,
+        "hairCostume3dId": 221,
+        "unit": "idol"
+    },
+    {
+        "id": 80600068,
+        "headCostume3dId": 8060129,
+        "hairCostume3dId": 221,
+        "unit": "street"
+    },
+    {
+        "id": 80600069,
+        "headCostume3dId": 8060129,
+        "hairCostume3dId": 221,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600070,
+        "headCostume3dId": 8060129,
+        "hairCostume3dId": 221,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600071,
+        "headCostume3dId": 8060131,
+        "hairCostume3dId": 221,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600072,
+        "headCostume3dId": 8060131,
+        "hairCostume3dId": 221,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600073,
+        "headCostume3dId": 8060131,
+        "hairCostume3dId": 221,
+        "unit": "idol"
+    },
+    {
+        "id": 80600074,
+        "headCostume3dId": 8060131,
+        "hairCostume3dId": 221,
+        "unit": "street"
+    },
+    {
+        "id": 80600075,
+        "headCostume3dId": 8060131,
+        "hairCostume3dId": 221,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600076,
+        "headCostume3dId": 8060131,
+        "hairCostume3dId": 221,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600077,
+        "headCostume3dId": 8060133,
+        "hairCostume3dId": 221,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600078,
+        "headCostume3dId": 8060133,
+        "hairCostume3dId": 221,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600079,
+        "headCostume3dId": 8060133,
+        "hairCostume3dId": 221,
+        "unit": "idol"
+    },
+    {
+        "id": 80600080,
+        "headCostume3dId": 8060133,
+        "hairCostume3dId": 221,
+        "unit": "street"
+    },
+    {
+        "id": 80600081,
+        "headCostume3dId": 8060133,
+        "hairCostume3dId": 221,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600082,
+        "headCostume3dId": 8060133,
+        "hairCostume3dId": 221,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600083,
+        "headCostume3dId": 8060135,
+        "hairCostume3dId": 221,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600084,
+        "headCostume3dId": 8060135,
+        "hairCostume3dId": 221,
+        "unit": "light_sound"
+    },
+    {
+        "id": 80600085,
+        "headCostume3dId": 8060135,
+        "hairCostume3dId": 221,
+        "unit": "idol"
+    },
+    {
+        "id": 80600086,
+        "headCostume3dId": 8060135,
+        "hairCostume3dId": 221,
+        "unit": "street"
+    },
+    {
+        "id": 80600087,
+        "headCostume3dId": 8060135,
+        "hairCostume3dId": 221,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80600088,
+        "headCostume3dId": 8060135,
+        "hairCostume3dId": 221,
+        "unit": "school_refusal"
+    },
+    {
+        "id": 80600089,
+        "headCostume3dId": 8060137,
+        "hairCostume3dId": 227,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600090,
+        "headCostume3dId": 8060139,
+        "hairCostume3dId": 227,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600091,
+        "headCostume3dId": 8060141,
+        "hairCostume3dId": 227,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600092,
+        "headCostume3dId": 8060143,
+        "hairCostume3dId": 227,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600093,
+        "headCostume3dId": 8060145,
+        "hairCostume3dId": 229,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600094,
+        "headCostume3dId": 8060147,
+        "hairCostume3dId": 229,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600095,
+        "headCostume3dId": 8060149,
+        "hairCostume3dId": 229,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600096,
+        "headCostume3dId": 8060151,
+        "hairCostume3dId": 229,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600097,
+        "headCostume3dId": 8060153,
+        "hairCostume3dId": 230,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600098,
+        "headCostume3dId": 8060155,
+        "hairCostume3dId": 230,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600099,
+        "headCostume3dId": 8060157,
+        "hairCostume3dId": 230,
+        "unit": "piapro"
+    },
+    {
+        "id": 80600100,
+        "headCostume3dId": 8060159,
+        "hairCostume3dId": 230,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610001,
+        "headCostume3dId": 8061001,
+        "hairCostume3dId": 211,
+        "unit": "street"
+    },
+    {
+        "id": 80610002,
+        "headCostume3dId": 8061003,
+        "hairCostume3dId": 211,
+        "unit": "street"
+    },
+    {
+        "id": 80610003,
+        "headCostume3dId": 8061005,
+        "hairCostume3dId": 211,
+        "unit": "street"
+    },
+    {
+        "id": 80610004,
+        "headCostume3dId": 8061007,
+        "hairCostume3dId": 211,
+        "unit": "street"
+    },
+    {
+        "id": 80610005,
+        "headCostume3dId": 8061009,
+        "hairCostume3dId": 212,
+        "unit": "street"
+    },
+    {
+        "id": 80610006,
+        "headCostume3dId": 8061011,
+        "hairCostume3dId": 212,
+        "unit": "street"
+    },
+    {
+        "id": 80610007,
+        "headCostume3dId": 8061013,
+        "hairCostume3dId": 212,
+        "unit": "street"
+    },
+    {
+        "id": 80610008,
+        "headCostume3dId": 8061015,
+        "hairCostume3dId": 212,
+        "unit": "street"
+    },
+    {
+        "id": 80610009,
+        "headCostume3dId": 8061017,
+        "hairCostume3dId": 213,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610010,
+        "headCostume3dId": 8061019,
+        "hairCostume3dId": 213,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610011,
+        "headCostume3dId": 8061021,
+        "hairCostume3dId": 213,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610012,
+        "headCostume3dId": 8061023,
+        "hairCostume3dId": 213,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610013,
+        "headCostume3dId": 8061025,
+        "hairCostume3dId": 216,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610014,
+        "headCostume3dId": 8061027,
+        "hairCostume3dId": 216,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610015,
+        "headCostume3dId": 8061029,
+        "hairCostume3dId": 216,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610016,
+        "headCostume3dId": 8061031,
+        "hairCostume3dId": 216,
+        "unit": "theme_park"
+    },
+    {
+        "id": 80610017,
+        "headCostume3dId": 8061033,
+        "hairCostume3dId": 228,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610018,
+        "headCostume3dId": 8061035,
+        "hairCostume3dId": 228,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610019,
+        "headCostume3dId": 8061037,
+        "hairCostume3dId": 228,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610020,
+        "headCostume3dId": 8061039,
+        "hairCostume3dId": 228,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610021,
+        "headCostume3dId": 8061041,
+        "hairCostume3dId": 231,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610022,
+        "headCostume3dId": 8061043,
+        "hairCostume3dId": 231,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610023,
+        "headCostume3dId": 8061045,
+        "hairCostume3dId": 231,
+        "unit": "piapro"
+    },
+    {
+        "id": 80610024,
+        "headCostume3dId": 8061047,
+        "hairCostume3dId": 231,
+        "unit": "piapro"
+    },
+    {
         "id": 90010001,
         "headCostume3dId": 9001001,
         "hairCostume3dId": 201,
