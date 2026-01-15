@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 58,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 11,
+        "characterCount5SpawnRate": 1
+    },
+    {
+        "id": 2,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 56,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 12,
+        "characterCount5SpawnRate": 2
+    },
+    {
+        "id": 3,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 54,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 13,
+        "characterCount5SpawnRate": 3
+    },
+    {
+        "id": 4,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 52,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 14,
+        "characterCount5SpawnRate": 4
+    },
+    {
+        "id": 5,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 50,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 15,
+        "characterCount5SpawnRate": 5
+    },
+    {
+        "id": 6,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 48,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 16,
+        "characterCount5SpawnRate": 6
+    },
+    {
+        "id": 7,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 46,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 17,
+        "characterCount5SpawnRate": 7
+    },
+    {
+        "id": 8,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 44,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 18,
+        "characterCount5SpawnRate": 8
+    },
+    {
+        "id": 9,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 42,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 19,
+        "characterCount5SpawnRate": 9
+    },
+    {
+        "id": 10,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 40,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 20,
+        "characterCount5SpawnRate": 10
+    },
+    {
+        "id": 11,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 38,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 21,
+        "characterCount5SpawnRate": 11
+    },
+    {
+        "id": 12,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 36,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 22,
+        "characterCount5SpawnRate": 12
+    },
+    {
+        "id": 13,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 34,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 23,
+        "characterCount5SpawnRate": 13
+    },
+    {
+        "id": 14,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 32,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 24,
+        "characterCount5SpawnRate": 14
+    },
+    {
+        "id": 15,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 30,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 25,
+        "characterCount5SpawnRate": 15
+    },
+    {
+        "id": 16,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 28,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 26,
+        "characterCount5SpawnRate": 16
+    },
+    {
+        "id": 17,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 26,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 27,
+        "characterCount5SpawnRate": 17
+    },
+    {
+        "id": 18,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 24,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 28,
+        "characterCount5SpawnRate": 18
+    },
+    {
+        "id": 19,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 22,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 29,
+        "characterCount5SpawnRate": 19
+    },
+    {
+        "id": 20,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 20,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 30,
+        "characterCount5SpawnRate": 20
+    },
+    {
+        "id": 21,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 18,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 31,
+        "characterCount5SpawnRate": 21
+    },
+    {
+        "id": 22,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 16,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 32,
+        "characterCount5SpawnRate": 22
+    },
+    {
+        "id": 23,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 14,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 33,
+        "characterCount5SpawnRate": 23
+    },
+    {
+        "id": 24,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 12,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 34,
+        "characterCount5SpawnRate": 24
+    },
+    {
+        "id": 25,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 10,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 35,
+        "characterCount5SpawnRate": 25
+    },
+    {
+        "id": 26,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 8,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 36,
+        "characterCount5SpawnRate": 26
+    },
+    {
+        "id": 27,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 6,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 37,
+        "characterCount5SpawnRate": 27
+    },
+    {
+        "id": 28,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 4,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 38,
+        "characterCount5SpawnRate": 28
+    },
+    {
+        "id": 29,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 2,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 39,
+        "characterCount5SpawnRate": 29
+    },
+    {
+        "id": 30,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 30,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 30
+    },
+    {
+        "id": 31,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 29,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 31
+    },
+    {
+        "id": 32,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 28,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 32
+    },
+    {
+        "id": 33,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 27,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 33
+    },
+    {
+        "id": 34,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 26,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 34
+    },
+    {
+        "id": 35,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 25,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 35
+    },
+    {
+        "id": 36,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 24,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 36
+    },
+    {
+        "id": 37,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 23,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 37
+    },
+    {
+        "id": 38,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 22,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 38
+    },
+    {
+        "id": 39,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 21,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 39
+    },
+    {
+        "id": 40,
+        "characterCount1SpawnRate": 0,
+        "characterCount2SpawnRate": 0,
+        "characterCount3SpawnRate": 20,
+        "characterCount4SpawnRate": 40,
+        "characterCount5SpawnRate": 40
+    }
+]
