@@ -362,5 +362,12 @@
         "multiPlayVersion": "len",
         "assetVersion": "5.0.0.1",
         "appVersionStatus": "available"
+    },
+    {
+        "systemProfile": "production",
+        "appVersion": "5.0.5",
+        "multiPlayVersion": "len",
+        "assetVersion": "5.0.50.1",
+        "appVersionStatus": "available"
     }
 ]
