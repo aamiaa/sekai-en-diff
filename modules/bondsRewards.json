@@ -54990,6 +54990,15 @@
         "description": "「志歩と寧々」レアリティ1-1"
     },
     {
+        "id": 10415005,
+        "bondsGroupId": 10415,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041502,
+        "description": "「志歩と寧々」称号文言1"
+    },
+    {
         "id": 10415006,
         "bondsGroupId": 10415,
         "rank": 5,
@@ -55089,6 +55098,14 @@
         "description": "「志歩と寧々」レアリティ1-3"
     },
     {
+        "id": 10415017,
+        "bondsGroupId": 10415,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Shiho & Nene Show Call Out Voice 1"
+    },
+    {
         "id": 10415018,
         "bondsGroupId": 10415,
         "rank": 16,
@@ -55177,6 +55194,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1041507,
         "description": "「志歩と寧々」レアリティ1-5"
+    },
+    {
+        "id": 10415028,
+        "bondsGroupId": 10415,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041508,
+        "description": "「志歩と寧々」称号文言2"
     },
     {
         "id": 10415029,
@@ -55269,6 +55295,14 @@
         "description": "「志歩と寧々」レアリティ2-2"
     },
     {
+        "id": 10415039,
+        "bondsGroupId": 10415,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Shiho & Nene Show Call Out Voice 2"
+    },
+    {
         "id": 10415040,
         "bondsGroupId": 10415,
         "rank": 36,
@@ -55357,6 +55391,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1041512,
         "description": "「志歩と寧々」レアリティ2-4"
+    },
+    {
+        "id": 10415050,
+        "bondsGroupId": 10415,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041513,
+        "description": "「志歩と寧々」称号文言3"
     },
     {
         "id": 10415051,
@@ -55449,6 +55492,14 @@
         "description": "「志歩と寧々」レアリティ2-6"
     },
     {
+        "id": 10415061,
+        "bondsGroupId": 10415,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Shiho & Nene Show Call Out Voice 3"
+    },
+    {
         "id": 10415062,
         "bondsGroupId": 10415,
         "rank": 56,
@@ -55537,6 +55588,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1041517,
         "description": "「志歩と寧々」レアリティ2-8"
+    },
+    {
+        "id": 10415072,
+        "bondsGroupId": 10415,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1041518,
+        "description": "「志歩と寧々」キズナスタンプ"
     },
     {
         "id": 10415073,
@@ -96588,6 +96648,15 @@
         "description": "「愛莉と奏」レアリティ1-1"
     },
     {
+        "id": 10717005,
+        "bondsGroupId": 10717,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1071702,
+        "description": "「愛莉と奏」称号文言1"
+    },
+    {
         "id": 10717006,
         "bondsGroupId": 10717,
         "rank": 5,
@@ -96687,6 +96756,14 @@
         "description": "「愛莉と奏」レアリティ1-3"
     },
     {
+        "id": 10717017,
+        "bondsGroupId": 10717,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Airi & Kanade Show Call Out Voice 1"
+    },
+    {
         "id": 10717018,
         "bondsGroupId": 10717,
         "rank": 16,
@@ -96775,6 +96852,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1071707,
         "description": "「愛莉と奏」レアリティ1-5"
+    },
+    {
+        "id": 10717028,
+        "bondsGroupId": 10717,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1071708,
+        "description": "「愛莉と奏」称号文言2"
     },
     {
         "id": 10717029,
@@ -96867,6 +96953,14 @@
         "description": "「愛莉と奏」レアリティ2-2"
     },
     {
+        "id": 10717039,
+        "bondsGroupId": 10717,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Airi & Kanade Show Call Out Voice 2"
+    },
+    {
         "id": 10717040,
         "bondsGroupId": 10717,
         "rank": 36,
@@ -96955,6 +97049,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1071712,
         "description": "「愛莉と奏」レアリティ2-4"
+    },
+    {
+        "id": 10717050,
+        "bondsGroupId": 10717,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1071713,
+        "description": "「愛莉と奏」称号文言3"
     },
     {
         "id": 10717051,
@@ -97047,6 +97150,14 @@
         "description": "「愛莉と奏」レアリティ2-6"
     },
     {
+        "id": 10717061,
+        "bondsGroupId": 10717,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Airi & Kanade Show Call Out Voice 3"
+    },
+    {
         "id": 10717062,
         "bondsGroupId": 10717,
         "rank": 56,
@@ -97135,6 +97246,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1071717,
         "description": "「愛莉と奏」レアリティ2-8"
+    },
+    {
+        "id": 10717072,
+        "bondsGroupId": 10717,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1071718,
+        "description": "「愛莉と奏」キズナスタンプ"
     },
     {
         "id": 10717073,
@@ -182052,6 +182172,15 @@
         "description": "「類と絵名」レアリティ1-1"
     },
     {
+        "id": 11619005,
+        "bondsGroupId": 11619,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1161902,
+        "description": "「類と絵名」称号文言1"
+    },
+    {
         "id": 11619006,
         "bondsGroupId": 11619,
         "rank": 5,
@@ -182151,6 +182280,14 @@
         "description": "「類と絵名」レアリティ1-3"
     },
     {
+        "id": 11619017,
+        "bondsGroupId": 11619,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Rui & Ena Show Call Out Voice 1"
+    },
+    {
         "id": 11619018,
         "bondsGroupId": 11619,
         "rank": 16,
@@ -182239,6 +182376,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1161907,
         "description": "「類と絵名」レアリティ1-5"
+    },
+    {
+        "id": 11619028,
+        "bondsGroupId": 11619,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1161908,
+        "description": "「類と絵名」称号文言2"
     },
     {
         "id": 11619029,
@@ -182331,6 +182477,14 @@
         "description": "「類と絵名」レアリティ2-2"
     },
     {
+        "id": 11619039,
+        "bondsGroupId": 11619,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Rui & Ena Show Call Out Voice 2"
+    },
+    {
         "id": 11619040,
         "bondsGroupId": 11619,
         "rank": 36,
@@ -182419,6 +182573,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1161912,
         "description": "「類と絵名」レアリティ2-4"
+    },
+    {
+        "id": 11619050,
+        "bondsGroupId": 11619,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1161913,
+        "description": "「類と絵名」称号文言3"
     },
     {
         "id": 11619051,
@@ -182511,6 +182674,14 @@
         "description": "「類と絵名」レアリティ2-6"
     },
     {
+        "id": 11619061,
+        "bondsGroupId": 11619,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Rui & Ena Show Call Out Voice 3"
+    },
+    {
         "id": 11619062,
         "bondsGroupId": 11619,
         "rank": 56,
@@ -182599,6 +182770,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1161917,
         "description": "「類と絵名」レアリティ2-8"
+    },
+    {
+        "id": 11619072,
+        "bondsGroupId": 11619,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1161918,
+        "description": "「類と絵名」キズナスタンプ"
     },
     {
         "id": 11619073,
