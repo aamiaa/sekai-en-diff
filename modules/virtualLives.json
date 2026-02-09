@@ -297386,6 +297386,3091 @@
         "virtualLiveInformation": {}
     },
     {
+        "id": 359,
+        "virtualLiveType": "normal",
+        "virtualLivePlatform": "v2",
+        "seq": 180,
+        "name": "Valentine's Day Show 2026",
+        "assetbundleName": "vlentrance_00359",
+        "screenMvMusicVocalId": 38,
+        "startAt": 1770937200000,
+        "endAt": 1771369199000,
+        "rankingAnnounceAt": 4102444799000,
+        "virtualLiveSetlists": [
+            {
+                "id": 1956,
+                "virtualLiveId": 359,
+                "seq": 1,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_valentine_2025_1",
+                "virtualLiveStageId": 8
+            },
+            {
+                "id": 1957,
+                "virtualLiveId": 359,
+                "seq": 2,
+                "virtualLiveSetlistType": "music",
+                "assetbundleName": "0475_001",
+                "virtualLiveStageId": 8,
+                "musicId": 475,
+                "musicVocalId": 1461,
+                "character3dId1": 1869,
+                "character3dId2": 1865,
+                "character3dId3": 1866,
+                "character3dId4": 1867,
+                "character3dId5": 1868
+            },
+            {
+                "id": 1958,
+                "virtualLiveId": 359,
+                "seq": 3,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_valentine_2025_2",
+                "virtualLiveStageId": 8
+            },
+            {
+                "id": 1959,
+                "virtualLiveId": 359,
+                "seq": 4,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_valentine_2025_3",
+                "virtualLiveStageId": 1
+            },
+            {
+                "id": 1960,
+                "virtualLiveId": 359,
+                "seq": 5,
+                "virtualLiveSetlistType": "music",
+                "assetbundleName": "0121_001",
+                "virtualLiveStageId": 5,
+                "musicId": 121,
+                "musicVocalId": 308,
+                "character3dId1": 1871,
+                "character3dId2": 1872,
+                "character3dId3": 1870
+            },
+            {
+                "id": 1961,
+                "virtualLiveId": 359,
+                "seq": 6,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_valentine_2025_4",
+                "virtualLiveStageId": 5,
+                "musicId": 121,
+                "musicVocalId": 308
+            }
+        ],
+        "virtualLiveBeginnerSchedules": [],
+        "virtualLiveSchedules": [
+            {
+                "id": 5069,
+                "virtualLiveId": 359,
+                "seq": 1,
+                "startAt": 1771056000000,
+                "endAt": 1771056784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5070,
+                "virtualLiveId": 359,
+                "seq": 2,
+                "startAt": 1771059600000,
+                "endAt": 1771060384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5071,
+                "virtualLiveId": 359,
+                "seq": 3,
+                "startAt": 1771063200000,
+                "endAt": 1771063984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5072,
+                "virtualLiveId": 359,
+                "seq": 4,
+                "startAt": 1771066800000,
+                "endAt": 1771067584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5073,
+                "virtualLiveId": 359,
+                "seq": 5,
+                "startAt": 1771070400000,
+                "endAt": 1771071184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5074,
+                "virtualLiveId": 359,
+                "seq": 6,
+                "startAt": 1771074000000,
+                "endAt": 1771074784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5075,
+                "virtualLiveId": 359,
+                "seq": 7,
+                "startAt": 1771077600000,
+                "endAt": 1771078384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5076,
+                "virtualLiveId": 359,
+                "seq": 8,
+                "startAt": 1771081200000,
+                "endAt": 1771081984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5077,
+                "virtualLiveId": 359,
+                "seq": 9,
+                "startAt": 1771084800000,
+                "endAt": 1771085584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5078,
+                "virtualLiveId": 359,
+                "seq": 10,
+                "startAt": 1771088400000,
+                "endAt": 1771089184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5079,
+                "virtualLiveId": 359,
+                "seq": 11,
+                "startAt": 1771092000000,
+                "endAt": 1771092784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5080,
+                "virtualLiveId": 359,
+                "seq": 12,
+                "startAt": 1771095600000,
+                "endAt": 1771096384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5081,
+                "virtualLiveId": 359,
+                "seq": 13,
+                "startAt": 1771099200000,
+                "endAt": 1771099984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5082,
+                "virtualLiveId": 359,
+                "seq": 14,
+                "startAt": 1771102800000,
+                "endAt": 1771103584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5083,
+                "virtualLiveId": 359,
+                "seq": 15,
+                "startAt": 1771106400000,
+                "endAt": 1771107184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5084,
+                "virtualLiveId": 359,
+                "seq": 16,
+                "startAt": 1771110000000,
+                "endAt": 1771110784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5085,
+                "virtualLiveId": 359,
+                "seq": 17,
+                "startAt": 1771113600000,
+                "endAt": 1771114384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5086,
+                "virtualLiveId": 359,
+                "seq": 18,
+                "startAt": 1771117200000,
+                "endAt": 1771117984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5087,
+                "virtualLiveId": 359,
+                "seq": 19,
+                "startAt": 1771120800000,
+                "endAt": 1771121584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5088,
+                "virtualLiveId": 359,
+                "seq": 20,
+                "startAt": 1771124400000,
+                "endAt": 1771125184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5089,
+                "virtualLiveId": 359,
+                "seq": 21,
+                "startAt": 1771128000000,
+                "endAt": 1771128784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5090,
+                "virtualLiveId": 359,
+                "seq": 22,
+                "startAt": 1771131600000,
+                "endAt": 1771132384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5091,
+                "virtualLiveId": 359,
+                "seq": 23,
+                "startAt": 1771135200000,
+                "endAt": 1771135984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5092,
+                "virtualLiveId": 359,
+                "seq": 24,
+                "startAt": 1771138800000,
+                "endAt": 1771139584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5093,
+                "virtualLiveId": 359,
+                "seq": 25,
+                "startAt": 1771142400000,
+                "endAt": 1771143184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5094,
+                "virtualLiveId": 359,
+                "seq": 26,
+                "startAt": 1771146000000,
+                "endAt": 1771146784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5095,
+                "virtualLiveId": 359,
+                "seq": 27,
+                "startAt": 1771149600000,
+                "endAt": 1771150384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5096,
+                "virtualLiveId": 359,
+                "seq": 28,
+                "startAt": 1771153200000,
+                "endAt": 1771153984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5097,
+                "virtualLiveId": 359,
+                "seq": 29,
+                "startAt": 1771156800000,
+                "endAt": 1771157584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5098,
+                "virtualLiveId": 359,
+                "seq": 30,
+                "startAt": 1771160400000,
+                "endAt": 1771161184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5099,
+                "virtualLiveId": 359,
+                "seq": 31,
+                "startAt": 1771164000000,
+                "endAt": 1771164784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5100,
+                "virtualLiveId": 359,
+                "seq": 32,
+                "startAt": 1771167600000,
+                "endAt": 1771168384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5101,
+                "virtualLiveId": 359,
+                "seq": 33,
+                "startAt": 1771171200000,
+                "endAt": 1771171984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5102,
+                "virtualLiveId": 359,
+                "seq": 34,
+                "startAt": 1771174800000,
+                "endAt": 1771175584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5103,
+                "virtualLiveId": 359,
+                "seq": 35,
+                "startAt": 1771178400000,
+                "endAt": 1771179184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5104,
+                "virtualLiveId": 359,
+                "seq": 36,
+                "startAt": 1771182000000,
+                "endAt": 1771182784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5105,
+                "virtualLiveId": 359,
+                "seq": 37,
+                "startAt": 1771185600000,
+                "endAt": 1771186384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5106,
+                "virtualLiveId": 359,
+                "seq": 38,
+                "startAt": 1771189200000,
+                "endAt": 1771189984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5107,
+                "virtualLiveId": 359,
+                "seq": 39,
+                "startAt": 1771192800000,
+                "endAt": 1771193584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5108,
+                "virtualLiveId": 359,
+                "seq": 40,
+                "startAt": 1771196400000,
+                "endAt": 1771197184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5109,
+                "virtualLiveId": 359,
+                "seq": 41,
+                "startAt": 1771200000000,
+                "endAt": 1771200784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5110,
+                "virtualLiveId": 359,
+                "seq": 42,
+                "startAt": 1771203600000,
+                "endAt": 1771204384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5111,
+                "virtualLiveId": 359,
+                "seq": 43,
+                "startAt": 1771207200000,
+                "endAt": 1771207984000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5112,
+                "virtualLiveId": 359,
+                "seq": 44,
+                "startAt": 1771210800000,
+                "endAt": 1771211584000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5113,
+                "virtualLiveId": 359,
+                "seq": 45,
+                "startAt": 1771214400000,
+                "endAt": 1771215184000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5114,
+                "virtualLiveId": 359,
+                "seq": 46,
+                "startAt": 1771218000000,
+                "endAt": 1771218784000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5115,
+                "virtualLiveId": 359,
+                "seq": 47,
+                "startAt": 1771221600000,
+                "endAt": 1771222384000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5116,
+                "virtualLiveId": 359,
+                "seq": 48,
+                "startAt": 1771225200000,
+                "endAt": 1771225984000,
+                "isAfterEvent": false
+            }
+        ],
+        "virtualLiveCharacters": [
+            {
+                "id": 3004,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 13,
+                "seq": 1,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3005,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 14,
+                "seq": 2,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3006,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 15,
+                "seq": 3,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3007,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 16,
+                "seq": 4,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3008,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 21,
+                "seq": 5,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3009,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 22,
+                "seq": 6,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3010,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 23,
+                "seq": 7,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3011,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 24,
+                "seq": 8,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3012,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 25,
+                "seq": 9,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3013,
+                "virtualLiveId": 359,
+                "gameCharacterUnitId": 26,
+                "seq": 10,
+                "virtualLivePerformanceType": "main_only"
+            }
+        ],
+        "virtualLiveRewards": [
+            {
+                "id": 651,
+                "virtualLiveType": "normal",
+                "virtualLiveId": 359,
+                "resourceBoxId": 611
+            }
+        ],
+        "virtualLiveCheerPointRewards": [],
+        "virtualLiveWaitingRoom": {
+            "id": 359,
+            "virtualLiveId": 359,
+            "assetbundleName": "banner_specialLive_sample_01",
+            "startAt": 1770937200000,
+            "endAt": 1771369199000
+        },
+        "virtualItems": [
+            {
+                "id": 74,
+                "virtualItemCategory": "normal",
+                "seq": 740,
+                "priority": 740,
+                "name": "Happy Valentine's Day!",
+                "assetbundleName": "event_valentine_2021",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_valentine_2021",
+                "effectExpressionType": "throw_effect",
+                "virtualItemLabelType": "special"
+            },
+            {
+                "id": 1,
+                "virtualItemCategory": "normal",
+                "seq": 10,
+                "priority": 10,
+                "name": "Confetti",
+                "assetbundleName": "cracker_001",
+                "costVirtualCoin": 30,
+                "costJewel": 10,
+                "effectAssetbundleName": "cracker_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 2,
+                "virtualItemCategory": "normal",
+                "seq": 20,
+                "priority": 20,
+                "name": "Balloons",
+                "assetbundleName": "baloon_001",
+                "costVirtualCoin": 90,
+                "costJewel": 30,
+                "effectAssetbundleName": "baloon_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 4,
+                "virtualItemCategory": "normal",
+                "seq": 40,
+                "priority": 40,
+                "name": "Hearts",
+                "assetbundleName": "heart_001",
+                "costVirtualCoin": 150,
+                "costJewel": 50,
+                "effectAssetbundleName": "heart_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 5,
+                "virtualItemCategory": "spread",
+                "seq": 150,
+                "priority": 50,
+                "name": "Lasers",
+                "assetbundleName": "leser_all_001",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "leser_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 6,
+                "virtualItemCategory": "spread",
+                "seq": 170,
+                "priority": 60,
+                "name": "SEKAI Vibes",
+                "assetbundleName": "sekai_all_001",
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "effectAssetbundleName": "sekai_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 8,
+                "virtualItemCategory": "spread",
+                "seq": 160,
+                "priority": 80,
+                "name": "Snow",
+                "assetbundleName": "snow_all_001",
+                "costVirtualCoin": 900,
+                "costJewel": 300,
+                "effectAssetbundleName": "snow_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 9,
+                "virtualItemCategory": "spread",
+                "seq": 110,
+                "priority": 100,
+                "name": "Three-Leaf Clover",
+                "assetbundleName": "unit_clover_morejump",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_clover_morejump",
+                "effectExpressionType": "throw_effect",
+                "unit": "idol"
+            },
+            {
+                "id": 10,
+                "virtualItemCategory": "spread",
+                "seq": 140,
+                "priority": 130,
+                "name": "Broken Heart",
+                "assetbundleName": "unit_heart_25night",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_heart_25night",
+                "effectExpressionType": "throw_effect",
+                "unit": "school_refusal"
+            },
+            {
+                "id": 11,
+                "virtualItemCategory": "spread",
+                "seq": 130,
+                "priority": 120,
+                "name": "Show Crown",
+                "assetbundleName": "unit_king_wonder",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_king_wonder",
+                "effectExpressionType": "throw_effect",
+                "unit": "theme_park"
+            },
+            {
+                "id": 12,
+                "virtualItemCategory": "spread",
+                "seq": 90,
+                "priority": 140,
+                "name": "Chorus of Six",
+                "assetbundleName": "unit_sing_piapro",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_sing_piapro",
+                "effectExpressionType": "throw_effect",
+                "unit": "piapro"
+            },
+            {
+                "id": 13,
+                "virtualItemCategory": "spread",
+                "seq": 100,
+                "priority": 90,
+                "name": "Meteor Shower",
+                "assetbundleName": "unit_star_leoneed",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_star_leoneed",
+                "effectExpressionType": "throw_effect",
+                "unit": "light_sound"
+            },
+            {
+                "id": 14,
+                "virtualItemCategory": "spread",
+                "seq": 120,
+                "priority": 110,
+                "name": "Album Cover",
+                "assetbundleName": "unit_record_vivibad",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_record_vivibad",
+                "effectExpressionType": "throw_effect",
+                "unit": "street"
+            },
+            {
+                "id": 15,
+                "virtualItemCategory": "normal",
+                "seq": 30,
+                "priority": 150,
+                "name": "Big Fireworks",
+                "assetbundleName": "fireworks_rocket",
+                "costVirtualCoin": 90,
+                "costJewel": 30,
+                "effectAssetbundleName": "fireworks_rocket",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 18,
+                "virtualItemCategory": "normal",
+                "seq": 50,
+                "priority": 180,
+                "name": "Glorious Hand Fan",
+                "assetbundleName": "uchiwa",
+                "costVirtualCoin": 150,
+                "costJewel": 50,
+                "effectAssetbundleName": "uchiwa",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 19,
+                "virtualItemCategory": "normal",
+                "seq": 250,
+                "priority": 190,
+                "name": "Reverb Guitar",
+                "assetbundleName": "chara_ichika",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_ichika",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 1
+            },
+            {
+                "id": 20,
+                "virtualItemCategory": "normal",
+                "seq": 260,
+                "priority": 200,
+                "name": "Cheery Smile",
+                "assetbundleName": "chara_saki",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_saki",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 2
+            },
+            {
+                "id": 21,
+                "virtualItemCategory": "normal",
+                "seq": 270,
+                "priority": 210,
+                "name": "Amazing Apple Pie",
+                "assetbundleName": "chara_honami",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_honami",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 3
+            },
+            {
+                "id": 22,
+                "virtualItemCategory": "normal",
+                "seq": 280,
+                "priority": 220,
+                "name": "Hot Ramen",
+                "assetbundleName": "chara_shiho",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_shiho",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 4
+            },
+            {
+                "id": 23,
+                "virtualItemCategory": "normal",
+                "seq": 290,
+                "priority": 230,
+                "name": "Minorin Chant",
+                "assetbundleName": "chara_minori",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_minori",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 5
+            },
+            {
+                "id": 24,
+                "virtualItemCategory": "normal",
+                "seq": 300,
+                "priority": 240,
+                "name": "Motivational Penguin",
+                "assetbundleName": "chara_haruka",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_haruka",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 6
+            },
+            {
+                "id": 25,
+                "virtualItemCategory": "normal",
+                "seq": 310,
+                "priority": 250,
+                "name": "Heart Peach",
+                "assetbundleName": "chara_airi",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_airi",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 7
+            },
+            {
+                "id": 26,
+                "virtualItemCategory": "normal",
+                "seq": 320,
+                "priority": 260,
+                "name": "Soothing Voice",
+                "assetbundleName": "chara_shizuku",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_shizuku",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 8
+            },
+            {
+                "id": 27,
+                "virtualItemCategory": "normal",
+                "seq": 330,
+                "priority": 270,
+                "name": "Ham Wrap",
+                "assetbundleName": "chara_kohane",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kohane",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 9
+            },
+            {
+                "id": 28,
+                "virtualItemCategory": "normal",
+                "seq": 340,
+                "priority": 280,
+                "name": "Latte Art",
+                "assetbundleName": "chara_an",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_an",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 10
+            },
+            {
+                "id": 29,
+                "virtualItemCategory": "normal",
+                "seq": 350,
+                "priority": 290,
+                "name": "Reversible Outfit",
+                "assetbundleName": "chara_akito",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_akito",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 11
+            },
+            {
+                "id": 30,
+                "virtualItemCategory": "normal",
+                "seq": 360,
+                "priority": 300,
+                "name": "Pile of Books",
+                "assetbundleName": "chara_toya",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_toya",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 12
+            },
+            {
+                "id": 31,
+                "virtualItemCategory": "normal",
+                "seq": 370,
+                "priority": 310,
+                "name": "Star of the Show☆",
+                "assetbundleName": "chara_tukasa",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_tukasa",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 13
+            },
+            {
+                "id": 32,
+                "virtualItemCategory": "normal",
+                "seq": 380,
+                "priority": 320,
+                "name": "Let's Wonderhoy!",
+                "assetbundleName": "chara_emu",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_emu",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 14
+            },
+            {
+                "id": 33,
+                "virtualItemCategory": "normal",
+                "seq": 390,
+                "priority": 330,
+                "name": "Launching Robo-Nene!",
+                "assetbundleName": "chara_nene",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_nene",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 15
+            },
+            {
+                "id": 34,
+                "virtualItemCategory": "normal",
+                "seq": 400,
+                "priority": 340,
+                "name": "Drone Magic",
+                "assetbundleName": "chara_rui",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_rui",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 16
+            },
+            {
+                "id": 35,
+                "virtualItemCategory": "normal",
+                "seq": 410,
+                "priority": 350,
+                "name": "Instant Noodles",
+                "assetbundleName": "chara_kanade",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kanade",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 17
+            },
+            {
+                "id": 36,
+                "virtualItemCategory": "normal",
+                "seq": 420,
+                "priority": 360,
+                "name": "Wanting to Disappear",
+                "assetbundleName": "chara_mafuyu",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_mafuyu",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 18
+            },
+            {
+                "id": 37,
+                "virtualItemCategory": "normal",
+                "seq": 430,
+                "priority": 370,
+                "name": "Like! Symbol",
+                "assetbundleName": "chara_ena",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_ena",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 19
+            },
+            {
+                "id": 38,
+                "virtualItemCategory": "normal",
+                "seq": 440,
+                "priority": 380,
+                "name": "Cute Ribbons",
+                "assetbundleName": "chara_mizuki",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_mizuki",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 20
+            },
+            {
+                "id": 39,
+                "virtualItemCategory": "normal",
+                "seq": 150,
+                "priority": 390,
+                "name": "Leek Wand",
+                "assetbundleName": "chara_miku",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_miku",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 21
+            },
+            {
+                "id": 40,
+                "virtualItemCategory": "normal",
+                "seq": 160,
+                "priority": 400,
+                "name": "Juicy Tangerine",
+                "assetbundleName": "chara_rin",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_rin",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 22
+            },
+            {
+                "id": 41,
+                "virtualItemCategory": "normal",
+                "seq": 170,
+                "priority": 410,
+                "name": "Snacky Banana",
+                "assetbundleName": "chara_len",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_len",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 23
+            },
+            {
+                "id": 42,
+                "virtualItemCategory": "normal",
+                "seq": 180,
+                "priority": 420,
+                "name": "Big Tuna",
+                "assetbundleName": "chara_luka",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_luka",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 24
+            },
+            {
+                "id": 43,
+                "virtualItemCategory": "normal",
+                "seq": 190,
+                "priority": 430,
+                "name": "Celebratory Drink",
+                "assetbundleName": "chara_meiko",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_meiko",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 25
+            },
+            {
+                "id": 44,
+                "virtualItemCategory": "normal",
+                "seq": 200,
+                "priority": 440,
+                "name": "Popsicle",
+                "assetbundleName": "chara_kaito",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kaito",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 26
+            }
+        ],
+        "virtualLiveAppeals": [],
+        "virtualLiveBackgroundMusics": [],
+        "virtualLiveInformation": {}
+    },
+    {
+        "id": 360,
+        "virtualLiveType": "normal",
+        "virtualLivePlatform": "v2",
+        "seq": 190,
+        "name": "KAITO's Anniversary Show 2026",
+        "assetbundleName": "vlentrance_00360",
+        "screenMvMusicVocalId": 1428,
+        "startAt": 1771196400000,
+        "endAt": 1771541999000,
+        "rankingAnnounceAt": 4102444799000,
+        "virtualLiveSetlists": [
+            {
+                "id": 1962,
+                "virtualLiveId": 360,
+                "seq": 1,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_bd_2025kaito_1",
+                "virtualLiveStageId": 19
+            },
+            {
+                "id": 1963,
+                "virtualLiveId": 360,
+                "seq": 2,
+                "virtualLiveSetlistType": "music",
+                "assetbundleName": "0409_001",
+                "virtualLiveStageId": 19,
+                "musicId": 409,
+                "musicVocalId": 1428,
+                "character3dId1": 1859,
+                "character3dId2": 1863,
+                "character3dId3": 1860,
+                "character3dId4": 1861,
+                "character3dId5": 1862
+            },
+            {
+                "id": 1964,
+                "virtualLiveId": 360,
+                "seq": 3,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_bd_2025kaito_2",
+                "virtualLiveStageId": 19,
+                "musicId": 409,
+                "musicVocalId": 1428
+            },
+            {
+                "id": 1965,
+                "virtualLiveId": 360,
+                "seq": 4,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_bd_2025kaito_3",
+                "virtualLiveStageId": 1
+            },
+            {
+                "id": 1966,
+                "virtualLiveId": 360,
+                "seq": 5,
+                "virtualLiveSetlistType": "music",
+                "assetbundleName": "0283_001",
+                "virtualLiveStageId": 8,
+                "musicId": 283,
+                "musicVocalId": 707,
+                "character3dId1": 1864
+            },
+            {
+                "id": 1967,
+                "virtualLiveId": 360,
+                "seq": 6,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_bd_2025kaito_4",
+                "virtualLiveStageId": 8,
+                "musicId": 283,
+                "musicVocalId": 707
+            }
+        ],
+        "virtualLiveBeginnerSchedules": [],
+        "virtualLiveSchedules": [
+            {
+                "id": 5117,
+                "virtualLiveId": 360,
+                "seq": 1,
+                "startAt": 1771315200000,
+                "endAt": 1771315950000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5118,
+                "virtualLiveId": 360,
+                "seq": 2,
+                "startAt": 1771318800000,
+                "endAt": 1771319550000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5119,
+                "virtualLiveId": 360,
+                "seq": 3,
+                "startAt": 1771322400000,
+                "endAt": 1771323150000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5120,
+                "virtualLiveId": 360,
+                "seq": 4,
+                "startAt": 1771326000000,
+                "endAt": 1771326750000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5121,
+                "virtualLiveId": 360,
+                "seq": 5,
+                "startAt": 1771329600000,
+                "endAt": 1771330350000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5122,
+                "virtualLiveId": 360,
+                "seq": 6,
+                "startAt": 1771333200000,
+                "endAt": 1771333950000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5123,
+                "virtualLiveId": 360,
+                "seq": 7,
+                "startAt": 1771336800000,
+                "endAt": 1771337550000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5124,
+                "virtualLiveId": 360,
+                "seq": 8,
+                "startAt": 1771340400000,
+                "endAt": 1771341150000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5125,
+                "virtualLiveId": 360,
+                "seq": 9,
+                "startAt": 1771344000000,
+                "endAt": 1771344750000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5126,
+                "virtualLiveId": 360,
+                "seq": 10,
+                "startAt": 1771347600000,
+                "endAt": 1771348350000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5127,
+                "virtualLiveId": 360,
+                "seq": 11,
+                "startAt": 1771351200000,
+                "endAt": 1771351950000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5128,
+                "virtualLiveId": 360,
+                "seq": 12,
+                "startAt": 1771354800000,
+                "endAt": 1771355550000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5129,
+                "virtualLiveId": 360,
+                "seq": 13,
+                "startAt": 1771358400000,
+                "endAt": 1771359150000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5130,
+                "virtualLiveId": 360,
+                "seq": 14,
+                "startAt": 1771362000000,
+                "endAt": 1771362750000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5131,
+                "virtualLiveId": 360,
+                "seq": 15,
+                "startAt": 1771365600000,
+                "endAt": 1771366350000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5132,
+                "virtualLiveId": 360,
+                "seq": 16,
+                "startAt": 1771369200000,
+                "endAt": 1771369950000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5133,
+                "virtualLiveId": 360,
+                "seq": 17,
+                "startAt": 1771372800000,
+                "endAt": 1771373550000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5134,
+                "virtualLiveId": 360,
+                "seq": 18,
+                "startAt": 1771376400000,
+                "endAt": 1771377150000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5135,
+                "virtualLiveId": 360,
+                "seq": 19,
+                "startAt": 1771380000000,
+                "endAt": 1771380750000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5136,
+                "virtualLiveId": 360,
+                "seq": 20,
+                "startAt": 1771383600000,
+                "endAt": 1771384350000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5137,
+                "virtualLiveId": 360,
+                "seq": 21,
+                "startAt": 1771387200000,
+                "endAt": 1771387950000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5138,
+                "virtualLiveId": 360,
+                "seq": 22,
+                "startAt": 1771390800000,
+                "endAt": 1771391550000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5139,
+                "virtualLiveId": 360,
+                "seq": 23,
+                "startAt": 1771394400000,
+                "endAt": 1771395150000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5140,
+                "virtualLiveId": 360,
+                "seq": 24,
+                "startAt": 1771398000000,
+                "endAt": 1771398750000,
+                "isAfterEvent": false
+            }
+        ],
+        "virtualLiveCharacters": [
+            {
+                "id": 3014,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 17,
+                "seq": 1,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3015,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 18,
+                "seq": 2,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3016,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 19,
+                "seq": 3,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3017,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 20,
+                "seq": 4,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3018,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 21,
+                "seq": 5,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3019,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 22,
+                "seq": 6,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3020,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 23,
+                "seq": 7,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3021,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 24,
+                "seq": 8,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3022,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 25,
+                "seq": 9,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3023,
+                "virtualLiveId": 360,
+                "gameCharacterUnitId": 26,
+                "seq": 10,
+                "virtualLivePerformanceType": "main_only"
+            }
+        ],
+        "virtualLiveRewards": [
+            {
+                "id": 652,
+                "virtualLiveType": "normal",
+                "virtualLiveId": 360,
+                "resourceBoxId": 612
+            }
+        ],
+        "virtualLiveCheerPointRewards": [],
+        "virtualLiveWaitingRoom": {
+            "id": 360,
+            "virtualLiveId": 360,
+            "assetbundleName": "banner_specialLive_sample_01",
+            "startAt": 1771196400000,
+            "endAt": 1771541999000
+        },
+        "virtualItems": [
+            {
+                "id": 75,
+                "virtualItemCategory": "normal",
+                "seq": 750,
+                "priority": 750,
+                "name": "Happy Anniversary, KAITO!",
+                "assetbundleName": "chara_kaito_birthday",
+                "costVirtualCoin": 900,
+                "costJewel": 300,
+                "effectAssetbundleName": "chara_kaito_birthday",
+                "effectExpressionType": "throw_effect",
+                "virtualItemLabelType": "special",
+                "gameCharacterUnitId": 26
+            },
+            {
+                "id": 1,
+                "virtualItemCategory": "normal",
+                "seq": 10,
+                "priority": 10,
+                "name": "Confetti",
+                "assetbundleName": "cracker_001",
+                "costVirtualCoin": 30,
+                "costJewel": 10,
+                "effectAssetbundleName": "cracker_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 2,
+                "virtualItemCategory": "normal",
+                "seq": 20,
+                "priority": 20,
+                "name": "Balloons",
+                "assetbundleName": "baloon_001",
+                "costVirtualCoin": 90,
+                "costJewel": 30,
+                "effectAssetbundleName": "baloon_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 4,
+                "virtualItemCategory": "normal",
+                "seq": 40,
+                "priority": 40,
+                "name": "Hearts",
+                "assetbundleName": "heart_001",
+                "costVirtualCoin": 150,
+                "costJewel": 50,
+                "effectAssetbundleName": "heart_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 5,
+                "virtualItemCategory": "spread",
+                "seq": 150,
+                "priority": 50,
+                "name": "Lasers",
+                "assetbundleName": "leser_all_001",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "leser_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 6,
+                "virtualItemCategory": "spread",
+                "seq": 170,
+                "priority": 60,
+                "name": "SEKAI Vibes",
+                "assetbundleName": "sekai_all_001",
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "effectAssetbundleName": "sekai_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 8,
+                "virtualItemCategory": "spread",
+                "seq": 160,
+                "priority": 80,
+                "name": "Snow",
+                "assetbundleName": "snow_all_001",
+                "costVirtualCoin": 900,
+                "costJewel": 300,
+                "effectAssetbundleName": "snow_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 9,
+                "virtualItemCategory": "spread",
+                "seq": 110,
+                "priority": 100,
+                "name": "Three-Leaf Clover",
+                "assetbundleName": "unit_clover_morejump",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_clover_morejump",
+                "effectExpressionType": "throw_effect",
+                "unit": "idol"
+            },
+            {
+                "id": 10,
+                "virtualItemCategory": "spread",
+                "seq": 140,
+                "priority": 130,
+                "name": "Broken Heart",
+                "assetbundleName": "unit_heart_25night",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_heart_25night",
+                "effectExpressionType": "throw_effect",
+                "unit": "school_refusal"
+            },
+            {
+                "id": 11,
+                "virtualItemCategory": "spread",
+                "seq": 130,
+                "priority": 120,
+                "name": "Show Crown",
+                "assetbundleName": "unit_king_wonder",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_king_wonder",
+                "effectExpressionType": "throw_effect",
+                "unit": "theme_park"
+            },
+            {
+                "id": 12,
+                "virtualItemCategory": "spread",
+                "seq": 90,
+                "priority": 140,
+                "name": "Chorus of Six",
+                "assetbundleName": "unit_sing_piapro",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_sing_piapro",
+                "effectExpressionType": "throw_effect",
+                "unit": "piapro"
+            },
+            {
+                "id": 13,
+                "virtualItemCategory": "spread",
+                "seq": 100,
+                "priority": 90,
+                "name": "Meteor Shower",
+                "assetbundleName": "unit_star_leoneed",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_star_leoneed",
+                "effectExpressionType": "throw_effect",
+                "unit": "light_sound"
+            },
+            {
+                "id": 14,
+                "virtualItemCategory": "spread",
+                "seq": 120,
+                "priority": 110,
+                "name": "Album Cover",
+                "assetbundleName": "unit_record_vivibad",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_record_vivibad",
+                "effectExpressionType": "throw_effect",
+                "unit": "street"
+            },
+            {
+                "id": 15,
+                "virtualItemCategory": "normal",
+                "seq": 30,
+                "priority": 150,
+                "name": "Big Fireworks",
+                "assetbundleName": "fireworks_rocket",
+                "costVirtualCoin": 90,
+                "costJewel": 30,
+                "effectAssetbundleName": "fireworks_rocket",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 18,
+                "virtualItemCategory": "normal",
+                "seq": 50,
+                "priority": 180,
+                "name": "Glorious Hand Fan",
+                "assetbundleName": "uchiwa",
+                "costVirtualCoin": 150,
+                "costJewel": 50,
+                "effectAssetbundleName": "uchiwa",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 19,
+                "virtualItemCategory": "normal",
+                "seq": 250,
+                "priority": 190,
+                "name": "Reverb Guitar",
+                "assetbundleName": "chara_ichika",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_ichika",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 1
+            },
+            {
+                "id": 20,
+                "virtualItemCategory": "normal",
+                "seq": 260,
+                "priority": 200,
+                "name": "Cheery Smile",
+                "assetbundleName": "chara_saki",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_saki",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 2
+            },
+            {
+                "id": 21,
+                "virtualItemCategory": "normal",
+                "seq": 270,
+                "priority": 210,
+                "name": "Amazing Apple Pie",
+                "assetbundleName": "chara_honami",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_honami",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 3
+            },
+            {
+                "id": 22,
+                "virtualItemCategory": "normal",
+                "seq": 280,
+                "priority": 220,
+                "name": "Hot Ramen",
+                "assetbundleName": "chara_shiho",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_shiho",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 4
+            },
+            {
+                "id": 23,
+                "virtualItemCategory": "normal",
+                "seq": 290,
+                "priority": 230,
+                "name": "Minorin Chant",
+                "assetbundleName": "chara_minori",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_minori",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 5
+            },
+            {
+                "id": 24,
+                "virtualItemCategory": "normal",
+                "seq": 300,
+                "priority": 240,
+                "name": "Motivational Penguin",
+                "assetbundleName": "chara_haruka",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_haruka",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 6
+            },
+            {
+                "id": 25,
+                "virtualItemCategory": "normal",
+                "seq": 310,
+                "priority": 250,
+                "name": "Heart Peach",
+                "assetbundleName": "chara_airi",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_airi",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 7
+            },
+            {
+                "id": 26,
+                "virtualItemCategory": "normal",
+                "seq": 320,
+                "priority": 260,
+                "name": "Soothing Voice",
+                "assetbundleName": "chara_shizuku",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_shizuku",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 8
+            },
+            {
+                "id": 27,
+                "virtualItemCategory": "normal",
+                "seq": 330,
+                "priority": 270,
+                "name": "Ham Wrap",
+                "assetbundleName": "chara_kohane",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kohane",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 9
+            },
+            {
+                "id": 28,
+                "virtualItemCategory": "normal",
+                "seq": 340,
+                "priority": 280,
+                "name": "Latte Art",
+                "assetbundleName": "chara_an",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_an",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 10
+            },
+            {
+                "id": 29,
+                "virtualItemCategory": "normal",
+                "seq": 350,
+                "priority": 290,
+                "name": "Reversible Outfit",
+                "assetbundleName": "chara_akito",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_akito",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 11
+            },
+            {
+                "id": 30,
+                "virtualItemCategory": "normal",
+                "seq": 360,
+                "priority": 300,
+                "name": "Pile of Books",
+                "assetbundleName": "chara_toya",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_toya",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 12
+            },
+            {
+                "id": 31,
+                "virtualItemCategory": "normal",
+                "seq": 370,
+                "priority": 310,
+                "name": "Star of the Show☆",
+                "assetbundleName": "chara_tukasa",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_tukasa",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 13
+            },
+            {
+                "id": 32,
+                "virtualItemCategory": "normal",
+                "seq": 380,
+                "priority": 320,
+                "name": "Let's Wonderhoy!",
+                "assetbundleName": "chara_emu",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_emu",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 14
+            },
+            {
+                "id": 33,
+                "virtualItemCategory": "normal",
+                "seq": 390,
+                "priority": 330,
+                "name": "Launching Robo-Nene!",
+                "assetbundleName": "chara_nene",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_nene",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 15
+            },
+            {
+                "id": 34,
+                "virtualItemCategory": "normal",
+                "seq": 400,
+                "priority": 340,
+                "name": "Drone Magic",
+                "assetbundleName": "chara_rui",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_rui",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 16
+            },
+            {
+                "id": 35,
+                "virtualItemCategory": "normal",
+                "seq": 410,
+                "priority": 350,
+                "name": "Instant Noodles",
+                "assetbundleName": "chara_kanade",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kanade",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 17
+            },
+            {
+                "id": 36,
+                "virtualItemCategory": "normal",
+                "seq": 420,
+                "priority": 360,
+                "name": "Wanting to Disappear",
+                "assetbundleName": "chara_mafuyu",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_mafuyu",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 18
+            },
+            {
+                "id": 37,
+                "virtualItemCategory": "normal",
+                "seq": 430,
+                "priority": 370,
+                "name": "Like! Symbol",
+                "assetbundleName": "chara_ena",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_ena",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 19
+            },
+            {
+                "id": 38,
+                "virtualItemCategory": "normal",
+                "seq": 440,
+                "priority": 380,
+                "name": "Cute Ribbons",
+                "assetbundleName": "chara_mizuki",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_mizuki",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 20
+            },
+            {
+                "id": 39,
+                "virtualItemCategory": "normal",
+                "seq": 150,
+                "priority": 390,
+                "name": "Leek Wand",
+                "assetbundleName": "chara_miku",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_miku",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 21
+            },
+            {
+                "id": 40,
+                "virtualItemCategory": "normal",
+                "seq": 160,
+                "priority": 400,
+                "name": "Juicy Tangerine",
+                "assetbundleName": "chara_rin",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_rin",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 22
+            },
+            {
+                "id": 41,
+                "virtualItemCategory": "normal",
+                "seq": 170,
+                "priority": 410,
+                "name": "Snacky Banana",
+                "assetbundleName": "chara_len",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_len",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 23
+            },
+            {
+                "id": 42,
+                "virtualItemCategory": "normal",
+                "seq": 180,
+                "priority": 420,
+                "name": "Big Tuna",
+                "assetbundleName": "chara_luka",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_luka",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 24
+            },
+            {
+                "id": 43,
+                "virtualItemCategory": "normal",
+                "seq": 190,
+                "priority": 430,
+                "name": "Celebratory Drink",
+                "assetbundleName": "chara_meiko",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_meiko",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 25
+            },
+            {
+                "id": 44,
+                "virtualItemCategory": "normal",
+                "seq": 200,
+                "priority": 440,
+                "name": "Popsicle",
+                "assetbundleName": "chara_kaito",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kaito",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 26
+            }
+        ],
+        "virtualLiveAppeals": [],
+        "virtualLiveBackgroundMusics": [],
+        "virtualLiveInformation": {}
+    },
+    {
+        "id": 361,
+        "virtualLiveType": "normal",
+        "virtualLivePlatform": "v2",
+        "seq": 200,
+        "name": "Rise and Strive After Show",
+        "assetbundleName": "vlentrance_00361",
+        "screenMvMusicVocalId": 522,
+        "startAt": 1770764400000,
+        "endAt": 1771628399000,
+        "rankingAnnounceAt": 4102444799000,
+        "archiveReleaseConditionId": 115608,
+        "virtualLiveSetlists": [
+            {
+                "id": 1968,
+                "virtualLiveId": 361,
+                "seq": 1,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_ev_idol_20_1",
+                "virtualLiveStageId": 11
+            },
+            {
+                "id": 1969,
+                "virtualLiveId": 361,
+                "seq": 2,
+                "virtualLiveSetlistType": "music",
+                "assetbundleName": "0211_001",
+                "virtualLiveStageId": 11,
+                "musicId": 211,
+                "musicVocalId": 522,
+                "character3dId1": 1874,
+                "character3dId2": 1875,
+                "character3dId3": 1876,
+                "character3dId4": 1873,
+                "character3dId5": 1877
+            },
+            {
+                "id": 1970,
+                "virtualLiveId": 361,
+                "seq": 3,
+                "virtualLiveSetlistType": "mc_timeline",
+                "assetbundleName": "mc_ev_idol_20_2",
+                "virtualLiveStageId": 11,
+                "musicId": 211,
+                "musicVocalId": 522
+            }
+        ],
+        "virtualLiveBeginnerSchedules": [],
+        "virtualLiveSchedules": [
+            {
+                "id": 5141,
+                "virtualLiveId": 361,
+                "seq": 1,
+                "startAt": 1771484400000,
+                "endAt": 1771484865000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5142,
+                "virtualLiveId": 361,
+                "seq": 2,
+                "startAt": 1771488000000,
+                "endAt": 1771488465000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5143,
+                "virtualLiveId": 361,
+                "seq": 3,
+                "startAt": 1771491600000,
+                "endAt": 1771492065000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5144,
+                "virtualLiveId": 361,
+                "seq": 4,
+                "startAt": 1771495200000,
+                "endAt": 1771495665000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5145,
+                "virtualLiveId": 361,
+                "seq": 5,
+                "startAt": 1771498800000,
+                "endAt": 1771499265000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5146,
+                "virtualLiveId": 361,
+                "seq": 6,
+                "startAt": 1771502400000,
+                "endAt": 1771502865000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5147,
+                "virtualLiveId": 361,
+                "seq": 7,
+                "startAt": 1771506000000,
+                "endAt": 1771506465000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5148,
+                "virtualLiveId": 361,
+                "seq": 8,
+                "startAt": 1771509600000,
+                "endAt": 1771510065000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5149,
+                "virtualLiveId": 361,
+                "seq": 9,
+                "startAt": 1771513200000,
+                "endAt": 1771513665000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5150,
+                "virtualLiveId": 361,
+                "seq": 10,
+                "startAt": 1771516800000,
+                "endAt": 1771517265000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5151,
+                "virtualLiveId": 361,
+                "seq": 11,
+                "startAt": 1771520400000,
+                "endAt": 1771520865000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5152,
+                "virtualLiveId": 361,
+                "seq": 12,
+                "startAt": 1771524000000,
+                "endAt": 1771524465000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5153,
+                "virtualLiveId": 361,
+                "seq": 13,
+                "startAt": 1771527600000,
+                "endAt": 1771528065000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5154,
+                "virtualLiveId": 361,
+                "seq": 14,
+                "startAt": 1771531200000,
+                "endAt": 1771531665000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5155,
+                "virtualLiveId": 361,
+                "seq": 15,
+                "startAt": 1771534800000,
+                "endAt": 1771535265000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5156,
+                "virtualLiveId": 361,
+                "seq": 16,
+                "startAt": 1771538400000,
+                "endAt": 1771538865000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5157,
+                "virtualLiveId": 361,
+                "seq": 17,
+                "startAt": 1771542000000,
+                "endAt": 1771542465000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5158,
+                "virtualLiveId": 361,
+                "seq": 18,
+                "startAt": 1771545600000,
+                "endAt": 1771546065000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5159,
+                "virtualLiveId": 361,
+                "seq": 19,
+                "startAt": 1771549200000,
+                "endAt": 1771549665000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5160,
+                "virtualLiveId": 361,
+                "seq": 20,
+                "startAt": 1771552800000,
+                "endAt": 1771553265000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5161,
+                "virtualLiveId": 361,
+                "seq": 21,
+                "startAt": 1771556400000,
+                "endAt": 1771556865000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5162,
+                "virtualLiveId": 361,
+                "seq": 22,
+                "startAt": 1771560000000,
+                "endAt": 1771560465000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5163,
+                "virtualLiveId": 361,
+                "seq": 23,
+                "startAt": 1771563600000,
+                "endAt": 1771564065000,
+                "isAfterEvent": false
+            },
+            {
+                "id": 5164,
+                "virtualLiveId": 361,
+                "seq": 24,
+                "startAt": 1771567200000,
+                "endAt": 1771567665000,
+                "isAfterEvent": false
+            }
+        ],
+        "virtualLiveCharacters": [
+            {
+                "id": 3024,
+                "virtualLiveId": 361,
+                "gameCharacterUnitId": 5,
+                "seq": 1,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3025,
+                "virtualLiveId": 361,
+                "gameCharacterUnitId": 6,
+                "seq": 2,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3026,
+                "virtualLiveId": 361,
+                "gameCharacterUnitId": 7,
+                "seq": 3,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3027,
+                "virtualLiveId": 361,
+                "gameCharacterUnitId": 8,
+                "seq": 4,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3028,
+                "virtualLiveId": 361,
+                "gameCharacterUnitId": 28,
+                "seq": 5,
+                "virtualLivePerformanceType": "main_only"
+            },
+            {
+                "id": 3029,
+                "virtualLiveId": 361,
+                "gameCharacterUnitId": 24,
+                "seq": 6,
+                "virtualLivePerformanceType": "main_only"
+            }
+        ],
+        "virtualLiveRewards": [
+            {
+                "id": 653,
+                "virtualLiveType": "normal",
+                "virtualLiveId": 361,
+                "resourceBoxId": 613
+            },
+            {
+                "id": 654,
+                "virtualLiveType": "archive",
+                "virtualLiveId": 361,
+                "resourceBoxId": 614
+            }
+        ],
+        "virtualLiveCheerPointRewards": [],
+        "virtualLiveWaitingRoom": {
+            "id": 361,
+            "virtualLiveId": 361,
+            "assetbundleName": "banner_specialLive_sample_01",
+            "startAt": 1770764400000,
+            "endAt": 1771628399000
+        },
+        "virtualItems": [
+            {
+                "id": 1,
+                "virtualItemCategory": "normal",
+                "seq": 10,
+                "priority": 10,
+                "name": "Confetti",
+                "assetbundleName": "cracker_001",
+                "costVirtualCoin": 30,
+                "costJewel": 10,
+                "effectAssetbundleName": "cracker_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 2,
+                "virtualItemCategory": "normal",
+                "seq": 20,
+                "priority": 20,
+                "name": "Balloons",
+                "assetbundleName": "baloon_001",
+                "costVirtualCoin": 90,
+                "costJewel": 30,
+                "effectAssetbundleName": "baloon_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 4,
+                "virtualItemCategory": "normal",
+                "seq": 40,
+                "priority": 40,
+                "name": "Hearts",
+                "assetbundleName": "heart_001",
+                "costVirtualCoin": 150,
+                "costJewel": 50,
+                "effectAssetbundleName": "heart_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 5,
+                "virtualItemCategory": "spread",
+                "seq": 150,
+                "priority": 50,
+                "name": "Lasers",
+                "assetbundleName": "leser_all_001",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "leser_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 6,
+                "virtualItemCategory": "spread",
+                "seq": 170,
+                "priority": 60,
+                "name": "SEKAI Vibes",
+                "assetbundleName": "sekai_all_001",
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "effectAssetbundleName": "sekai_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 8,
+                "virtualItemCategory": "spread",
+                "seq": 160,
+                "priority": 80,
+                "name": "Snow",
+                "assetbundleName": "snow_all_001",
+                "costVirtualCoin": 900,
+                "costJewel": 300,
+                "effectAssetbundleName": "snow_all_001",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 9,
+                "virtualItemCategory": "spread",
+                "seq": 110,
+                "priority": 100,
+                "name": "Three-Leaf Clover",
+                "assetbundleName": "unit_clover_morejump",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_clover_morejump",
+                "effectExpressionType": "throw_effect",
+                "unit": "idol"
+            },
+            {
+                "id": 10,
+                "virtualItemCategory": "spread",
+                "seq": 140,
+                "priority": 130,
+                "name": "Broken Heart",
+                "assetbundleName": "unit_heart_25night",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_heart_25night",
+                "effectExpressionType": "throw_effect",
+                "unit": "school_refusal"
+            },
+            {
+                "id": 11,
+                "virtualItemCategory": "spread",
+                "seq": 130,
+                "priority": 120,
+                "name": "Show Crown",
+                "assetbundleName": "unit_king_wonder",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_king_wonder",
+                "effectExpressionType": "throw_effect",
+                "unit": "theme_park"
+            },
+            {
+                "id": 12,
+                "virtualItemCategory": "spread",
+                "seq": 90,
+                "priority": 140,
+                "name": "Chorus of Six",
+                "assetbundleName": "unit_sing_piapro",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_sing_piapro",
+                "effectExpressionType": "throw_effect",
+                "unit": "piapro"
+            },
+            {
+                "id": 13,
+                "virtualItemCategory": "spread",
+                "seq": 100,
+                "priority": 90,
+                "name": "Meteor Shower",
+                "assetbundleName": "unit_star_leoneed",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_star_leoneed",
+                "effectExpressionType": "throw_effect",
+                "unit": "light_sound"
+            },
+            {
+                "id": 14,
+                "virtualItemCategory": "spread",
+                "seq": 120,
+                "priority": 110,
+                "name": "Album Cover",
+                "assetbundleName": "unit_record_vivibad",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "unit_record_vivibad",
+                "effectExpressionType": "throw_effect",
+                "unit": "street"
+            },
+            {
+                "id": 15,
+                "virtualItemCategory": "normal",
+                "seq": 30,
+                "priority": 150,
+                "name": "Big Fireworks",
+                "assetbundleName": "fireworks_rocket",
+                "costVirtualCoin": 90,
+                "costJewel": 30,
+                "effectAssetbundleName": "fireworks_rocket",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 18,
+                "virtualItemCategory": "normal",
+                "seq": 50,
+                "priority": 180,
+                "name": "Glorious Hand Fan",
+                "assetbundleName": "uchiwa",
+                "costVirtualCoin": 150,
+                "costJewel": 50,
+                "effectAssetbundleName": "uchiwa",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 19,
+                "virtualItemCategory": "normal",
+                "seq": 250,
+                "priority": 190,
+                "name": "Reverb Guitar",
+                "assetbundleName": "chara_ichika",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_ichika",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 1
+            },
+            {
+                "id": 20,
+                "virtualItemCategory": "normal",
+                "seq": 260,
+                "priority": 200,
+                "name": "Cheery Smile",
+                "assetbundleName": "chara_saki",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_saki",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 2
+            },
+            {
+                "id": 21,
+                "virtualItemCategory": "normal",
+                "seq": 270,
+                "priority": 210,
+                "name": "Amazing Apple Pie",
+                "assetbundleName": "chara_honami",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_honami",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 3
+            },
+            {
+                "id": 22,
+                "virtualItemCategory": "normal",
+                "seq": 280,
+                "priority": 220,
+                "name": "Hot Ramen",
+                "assetbundleName": "chara_shiho",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_shiho",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 4
+            },
+            {
+                "id": 23,
+                "virtualItemCategory": "normal",
+                "seq": 290,
+                "priority": 230,
+                "name": "Minorin Chant",
+                "assetbundleName": "chara_minori",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_minori",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 5
+            },
+            {
+                "id": 24,
+                "virtualItemCategory": "normal",
+                "seq": 300,
+                "priority": 240,
+                "name": "Motivational Penguin",
+                "assetbundleName": "chara_haruka",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_haruka",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 6
+            },
+            {
+                "id": 25,
+                "virtualItemCategory": "normal",
+                "seq": 310,
+                "priority": 250,
+                "name": "Heart Peach",
+                "assetbundleName": "chara_airi",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_airi",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 7
+            },
+            {
+                "id": 26,
+                "virtualItemCategory": "normal",
+                "seq": 320,
+                "priority": 260,
+                "name": "Soothing Voice",
+                "assetbundleName": "chara_shizuku",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_shizuku",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 8
+            },
+            {
+                "id": 27,
+                "virtualItemCategory": "normal",
+                "seq": 330,
+                "priority": 270,
+                "name": "Ham Wrap",
+                "assetbundleName": "chara_kohane",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kohane",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 9
+            },
+            {
+                "id": 28,
+                "virtualItemCategory": "normal",
+                "seq": 340,
+                "priority": 280,
+                "name": "Latte Art",
+                "assetbundleName": "chara_an",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_an",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 10
+            },
+            {
+                "id": 29,
+                "virtualItemCategory": "normal",
+                "seq": 350,
+                "priority": 290,
+                "name": "Reversible Outfit",
+                "assetbundleName": "chara_akito",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_akito",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 11
+            },
+            {
+                "id": 30,
+                "virtualItemCategory": "normal",
+                "seq": 360,
+                "priority": 300,
+                "name": "Pile of Books",
+                "assetbundleName": "chara_toya",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_toya",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 12
+            },
+            {
+                "id": 31,
+                "virtualItemCategory": "normal",
+                "seq": 370,
+                "priority": 310,
+                "name": "Star of the Show☆",
+                "assetbundleName": "chara_tukasa",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_tukasa",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 13
+            },
+            {
+                "id": 32,
+                "virtualItemCategory": "normal",
+                "seq": 380,
+                "priority": 320,
+                "name": "Let's Wonderhoy!",
+                "assetbundleName": "chara_emu",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_emu",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 14
+            },
+            {
+                "id": 33,
+                "virtualItemCategory": "normal",
+                "seq": 390,
+                "priority": 330,
+                "name": "Launching Robo-Nene!",
+                "assetbundleName": "chara_nene",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_nene",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 15
+            },
+            {
+                "id": 34,
+                "virtualItemCategory": "normal",
+                "seq": 400,
+                "priority": 340,
+                "name": "Drone Magic",
+                "assetbundleName": "chara_rui",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_rui",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 16
+            },
+            {
+                "id": 35,
+                "virtualItemCategory": "normal",
+                "seq": 410,
+                "priority": 350,
+                "name": "Instant Noodles",
+                "assetbundleName": "chara_kanade",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kanade",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 17
+            },
+            {
+                "id": 36,
+                "virtualItemCategory": "normal",
+                "seq": 420,
+                "priority": 360,
+                "name": "Wanting to Disappear",
+                "assetbundleName": "chara_mafuyu",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_mafuyu",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 18
+            },
+            {
+                "id": 37,
+                "virtualItemCategory": "normal",
+                "seq": 430,
+                "priority": 370,
+                "name": "Like! Symbol",
+                "assetbundleName": "chara_ena",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_ena",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 19
+            },
+            {
+                "id": 38,
+                "virtualItemCategory": "normal",
+                "seq": 440,
+                "priority": 380,
+                "name": "Cute Ribbons",
+                "assetbundleName": "chara_mizuki",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_mizuki",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 20
+            },
+            {
+                "id": 39,
+                "virtualItemCategory": "normal",
+                "seq": 150,
+                "priority": 390,
+                "name": "Leek Wand",
+                "assetbundleName": "chara_miku",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_miku",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 21
+            },
+            {
+                "id": 40,
+                "virtualItemCategory": "normal",
+                "seq": 160,
+                "priority": 400,
+                "name": "Juicy Tangerine",
+                "assetbundleName": "chara_rin",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_rin",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 22
+            },
+            {
+                "id": 41,
+                "virtualItemCategory": "normal",
+                "seq": 170,
+                "priority": 410,
+                "name": "Snacky Banana",
+                "assetbundleName": "chara_len",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_len",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 23
+            },
+            {
+                "id": 42,
+                "virtualItemCategory": "normal",
+                "seq": 180,
+                "priority": 420,
+                "name": "Big Tuna",
+                "assetbundleName": "chara_luka",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_luka",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 24
+            },
+            {
+                "id": 43,
+                "virtualItemCategory": "normal",
+                "seq": 190,
+                "priority": 430,
+                "name": "Celebratory Drink",
+                "assetbundleName": "chara_meiko",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_meiko",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 25
+            },
+            {
+                "id": 44,
+                "virtualItemCategory": "normal",
+                "seq": 200,
+                "priority": 440,
+                "name": "Popsicle",
+                "assetbundleName": "chara_kaito",
+                "costVirtualCoin": 300,
+                "costJewel": 100,
+                "effectAssetbundleName": "chara_kaito",
+                "effectExpressionType": "throw_effect",
+                "gameCharacterUnitId": 26
+            },
+            {
+                "id": 46,
+                "virtualItemCategory": "normal",
+                "seq": 460,
+                "priority": 460,
+                "name": "Planetarium",
+                "assetbundleName": "event_planetarium",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_planetarium",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 47,
+                "virtualItemCategory": "normal",
+                "seq": 470,
+                "priority": 470,
+                "name": "Marionette",
+                "assetbundleName": "event_marionette",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_marionette",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 50,
+                "virtualItemCategory": "normal",
+                "seq": 500,
+                "priority": 500,
+                "name": "Robo-Zombie",
+                "assetbundleName": "event_zombie",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_zombie",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 53,
+                "virtualItemCategory": "normal",
+                "seq": 530,
+                "priority": 530,
+                "name": "Polka-Dot Heart",
+                "assetbundleName": "event_restart",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_restart",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 54,
+                "virtualItemCategory": "normal",
+                "seq": 540,
+                "priority": 540,
+                "name": "Music Battle",
+                "assetbundleName": "event_forward",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_forward",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 56,
+                "virtualItemCategory": "normal",
+                "seq": 560,
+                "priority": 560,
+                "name": "Christmas Robo-Nene",
+                "assetbundleName": "event_nijiiro",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_nijiiro",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 68,
+                "virtualItemCategory": "normal",
+                "seq": 680,
+                "priority": 680,
+                "name": "Singing Contest",
+                "assetbundleName": "event_hareomatsu",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_hareomatsu",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 69,
+                "virtualItemCategory": "normal",
+                "seq": 690,
+                "priority": 690,
+                "name": "Fluttering Flower Petals",
+                "assetbundleName": "event_color",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_color",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 72,
+                "virtualItemCategory": "normal",
+                "seq": 720,
+                "priority": 720,
+                "name": "Violin Accompaniment",
+                "assetbundleName": "event_nocturne",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_nocturne",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 76,
+                "virtualItemCategory": "normal",
+                "seq": 760,
+                "priority": 760,
+                "name": "The Sky After the Rain",
+                "assetbundleName": "event_infinitelygray",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_infinitelygray",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 78,
+                "virtualItemCategory": "normal",
+                "seq": 780,
+                "priority": 780,
+                "name": "Wonder Ferris Wheel",
+                "assetbundleName": "event_dream",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_dream",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 79,
+                "virtualItemCategory": "normal",
+                "seq": 790,
+                "priority": 790,
+                "name": "Tenma Family Doll Festival",
+                "assetbundleName": "event_hinamatsuri",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_hinamatsuri",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 82,
+                "virtualItemCategory": "normal",
+                "seq": 820,
+                "priority": 820,
+                "name": "Angelic Flight",
+                "assetbundleName": "event_angelclover",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_angelclover",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 83,
+                "virtualItemCategory": "normal",
+                "seq": 830,
+                "priority": 830,
+                "name": "Petal Blizzard",
+                "assetbundleName": "event_hanami",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_hanami",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 84,
+                "virtualItemCategory": "normal",
+                "seq": 840,
+                "priority": 840,
+                "name": "Secret",
+                "assetbundleName": "event_secret",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_secret",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 86,
+                "virtualItemCategory": "normal",
+                "seq": 860,
+                "priority": 860,
+                "name": "First Show",
+                "assetbundleName": "event_resonate",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_resonate",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 88,
+                "virtualItemCategory": "normal",
+                "seq": 880,
+                "priority": 880,
+                "name": "Cheers Microphones",
+                "assetbundleName": "event_stray",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_stray",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 90,
+                "virtualItemCategory": "normal",
+                "seq": 900,
+                "priority": 900,
+                "name": "Forest Fairy",
+                "assetbundleName": "event_picnic",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_picnic",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 92,
+                "virtualItemCategory": "normal",
+                "seq": 920,
+                "priority": 920,
+                "name": "Emperor Penguin Deluxe Parfait",
+                "assetbundleName": "event_breaktime",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_breaktime",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 94,
+                "virtualItemCategory": "normal",
+                "seq": 940,
+                "priority": 940,
+                "name": "Flower Shower",
+                "assetbundleName": "event_bridal",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_bridal",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 95,
+                "virtualItemCategory": "normal",
+                "seq": 950,
+                "priority": 950,
+                "name": "Magical Wonderland",
+                "assetbundleName": "event_wonders",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_wonders",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 96,
+                "virtualItemCategory": "normal",
+                "seq": 960,
+                "priority": 960,
+                "name": "Music Box of Memories",
+                "assetbundleName": "event_carnation",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_carnation",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 98,
+                "virtualItemCategory": "normal",
+                "seq": 980,
+                "priority": 980,
+                "name": "Synthesizer",
+                "assetbundleName": "event_unnamed",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_unnamed",
+                "effectExpressionType": "throw_effect"
+            },
+            {
+                "id": 100,
+                "virtualItemCategory": "normal",
+                "seq": 1000,
+                "priority": 1000,
+                "name": "Beast on Stage",
+                "assetbundleName": "event_awakening",
+                "costVirtualCoin": 450,
+                "costJewel": 150,
+                "effectAssetbundleName": "event_awakening",
+                "effectExpressionType": "throw_effect"
+            }
+        ],
+        "virtualLiveAppeals": [],
+        "virtualLiveBackgroundMusics": [],
+        "virtualLiveInformation": {}
+    },
+    {
         "id": 20001,
         "virtualLiveType": "beginner",
         "virtualLivePlatform": "v2",
