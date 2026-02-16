@@ -368,6 +368,13 @@
         "appVersion": "5.0.5",
         "multiPlayVersion": "len",
         "assetVersion": "5.0.51.0",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "production",
+        "appVersion": "5.1.0",
+        "multiPlayVersion": "luka",
+        "assetVersion": "5.1.0.1",
         "appVersionStatus": "available"
     }
 ]
