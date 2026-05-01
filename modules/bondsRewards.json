@@ -31473,6 +31473,15 @@
         "description": "「咲希とMEIKO」レアリティ1-1"
     },
     {
+        "id": 10225005,
+        "bondsGroupId": 10225,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1022502,
+        "description": "「咲希とMEIKO」称号文言1"
+    },
+    {
         "id": 10225006,
         "bondsGroupId": 10225,
         "rank": 5,
@@ -31572,6 +31581,14 @@
         "description": "「咲希とMEIKO」レアリティ1-3"
     },
     {
+        "id": 10225017,
+        "bondsGroupId": 10225,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Saki & MEIKO Show Call Out Voice 1"
+    },
+    {
         "id": 10225018,
         "bondsGroupId": 10225,
         "rank": 16,
@@ -31660,6 +31677,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1022507,
         "description": "「咲希とMEIKO」レアリティ1-5"
+    },
+    {
+        "id": 10225028,
+        "bondsGroupId": 10225,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1022508,
+        "description": "「咲希とMEIKO」称号文言2"
     },
     {
         "id": 10225029,
@@ -31752,6 +31778,14 @@
         "description": "「咲希とMEIKO」レアリティ2-2"
     },
     {
+        "id": 10225039,
+        "bondsGroupId": 10225,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Saki & MEIKO Show Call Out Voice 2"
+    },
+    {
         "id": 10225040,
         "bondsGroupId": 10225,
         "rank": 36,
@@ -31840,6 +31874,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1022512,
         "description": "「咲希とMEIKO」レアリティ2-4"
+    },
+    {
+        "id": 10225050,
+        "bondsGroupId": 10225,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1022513,
+        "description": "「咲希とMEIKO」称号文言3"
     },
     {
         "id": 10225051,
@@ -31932,6 +31975,14 @@
         "description": "「咲希とMEIKO」レアリティ2-6"
     },
     {
+        "id": 10225061,
+        "bondsGroupId": 10225,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Saki & MEIKO Show Call Out Voice 3"
+    },
+    {
         "id": 10225062,
         "bondsGroupId": 10225,
         "rank": 56,
@@ -32020,6 +32071,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1022517,
         "description": "「咲希とMEIKO」レアリティ2-8"
+    },
+    {
+        "id": 10225072,
+        "bondsGroupId": 10225,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1022518,
+        "description": "「咲希とMEIKO」キズナスタンプ"
     },
     {
         "id": 10225073,
@@ -40164,6 +40224,15 @@
         "description": "「穂波と寧々」レアリティ1-1"
     },
     {
+        "id": 10315005,
+        "bondsGroupId": 10315,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1031502,
+        "description": "「穂波と寧々」称号文言1"
+    },
+    {
         "id": 10315006,
         "bondsGroupId": 10315,
         "rank": 5,
@@ -40263,6 +40332,14 @@
         "description": "「穂波と寧々」レアリティ1-3"
     },
     {
+        "id": 10315017,
+        "bondsGroupId": 10315,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Honami &NeneO Show Call Out Voice 1"
+    },
+    {
         "id": 10315018,
         "bondsGroupId": 10315,
         "rank": 16,
@@ -40351,6 +40428,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1031507,
         "description": "「穂波と寧々」レアリティ1-5"
+    },
+    {
+        "id": 10315028,
+        "bondsGroupId": 10315,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1031508,
+        "description": "「穂波と寧々」称号文言2"
     },
     {
         "id": 10315029,
@@ -40443,6 +40529,14 @@
         "description": "「穂波と寧々」レアリティ2-2"
     },
     {
+        "id": 10315039,
+        "bondsGroupId": 10315,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Honami &NeneO Show Call Out Voice 2"
+    },
+    {
         "id": 10315040,
         "bondsGroupId": 10315,
         "rank": 36,
@@ -40531,6 +40625,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1031512,
         "description": "「穂波と寧々」レアリティ2-4"
+    },
+    {
+        "id": 10315050,
+        "bondsGroupId": 10315,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1031513,
+        "description": "「穂波と寧々」称号文言3"
     },
     {
         "id": 10315051,
@@ -40623,6 +40726,14 @@
         "description": "「穂波と寧々」レアリティ2-6"
     },
     {
+        "id": 10315061,
+        "bondsGroupId": 10315,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Honami &NeneO Show Call Out Voice 3"
+    },
+    {
         "id": 10315062,
         "bondsGroupId": 10315,
         "rank": 56,
@@ -40711,6 +40822,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1031517,
         "description": "「穂波と寧々」レアリティ2-8"
+    },
+    {
+        "id": 10315072,
+        "bondsGroupId": 10315,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1031518,
+        "description": "「穂波と寧々」キズナスタンプ"
     },
     {
         "id": 10315073,
@@ -150132,6 +150252,15 @@
         "description": "「冬弥と奏」レアリティ1-1"
     },
     {
+        "id": 11217005,
+        "bondsGroupId": 11217,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1121702,
+        "description": "「冬弥と奏」称号文言1"
+    },
+    {
         "id": 11217006,
         "bondsGroupId": 11217,
         "rank": 5,
@@ -150231,6 +150360,14 @@
         "description": "「冬弥と奏」レアリティ1-3"
     },
     {
+        "id": 11217017,
+        "bondsGroupId": 11217,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Toya & Kanade Show Call Out Voice 1"
+    },
+    {
         "id": 11217018,
         "bondsGroupId": 11217,
         "rank": 16,
@@ -150319,6 +150456,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1121707,
         "description": "「冬弥と奏」レアリティ1-5"
+    },
+    {
+        "id": 11217028,
+        "bondsGroupId": 11217,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1121708,
+        "description": "「冬弥と奏」称号文言2"
     },
     {
         "id": 11217029,
@@ -150411,6 +150557,14 @@
         "description": "「冬弥と奏」レアリティ2-2"
     },
     {
+        "id": 11217039,
+        "bondsGroupId": 11217,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Toya & Kanade Show Call Out Voice 2"
+    },
+    {
         "id": 11217040,
         "bondsGroupId": 11217,
         "rank": 36,
@@ -150499,6 +150653,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1121712,
         "description": "「冬弥と奏」レアリティ2-4"
+    },
+    {
+        "id": 11217050,
+        "bondsGroupId": 11217,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1121713,
+        "description": "「冬弥と奏」称号文言3"
     },
     {
         "id": 11217051,
@@ -150591,6 +150754,14 @@
         "description": "「冬弥と奏」レアリティ2-6"
     },
     {
+        "id": 11217061,
+        "bondsGroupId": 11217,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Toya & Kanade Show Call Out Voice 3"
+    },
+    {
         "id": 11217062,
         "bondsGroupId": 11217,
         "rank": 56,
@@ -150679,6 +150850,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1121717,
         "description": "「冬弥と奏」レアリティ2-8"
+    },
+    {
+        "id": 11217072,
+        "bondsGroupId": 11217,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1121718,
+        "description": "「冬弥と奏」キズナスタンプ"
     },
     {
         "id": 11217073,
