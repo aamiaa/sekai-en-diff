@@ -181920,8 +181920,8 @@
         "priority": 200,
         "gameCharacterUnitId1": 2,
         "gameCharacterUnitId2": 47,
-        "assetbundleName1": "system_bondscp_002_047_first_4",
-        "assetbundleName2": "system_bondscp_002_047_second_4",
+        "assetbundleName1": "system_bondscp_002_047_first_1",
+        "assetbundleName2": "system_bondscp_002_047_second_1",
         "isLotteryTarget": true
     },
     {
@@ -181930,8 +181930,8 @@
         "priority": 200,
         "gameCharacterUnitId1": 47,
         "gameCharacterUnitId2": 2,
-        "assetbundleName1": "system_bondscp_047_002_first_4",
-        "assetbundleName2": "system_bondscp_047_002_second_4",
+        "assetbundleName1": "system_bondscp_047_002_first_1",
+        "assetbundleName2": "system_bondscp_047_002_second_1",
         "isLotteryTarget": true
     },
     {
