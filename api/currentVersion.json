@@ -2,9 +2,9 @@
     "systemProfile": "production",
     "appVersion": "5.3.5",
     "multiPlayVersion": "rin",
-    "dataVersion": "5.3.51.11",
-    "assetVersion": "5.3.51.0",
+    "dataVersion": "5.3.51.20",
+    "assetVersion": "5.3.51.20",
     "appHash": "2b5bc500-be64-4eb2-b4ed-d416a3fed7f5",
-    "assetHash": "22a5f495-b9c0-4420-987b-f167d1d7e301",
+    "assetHash": "b6f39440-a79a-4cb5-9436-914af9f4568d",
     "appVersionStatus": "available"
 }
