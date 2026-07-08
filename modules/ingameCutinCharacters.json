@@ -187599,5 +187599,65 @@
         "assetbundleName1": "system_bondscp_020_015_first_1",
         "assetbundleName2": "system_bondscp_020_015_second_1",
         "isLotteryTarget": true
+    },
+    {
+        "id": 15917,
+        "ingameCutinCharacterType": "sp",
+        "priority": 200,
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 3,
+        "assetbundleName1": "system_bondscp_005_003_first_1",
+        "assetbundleName2": "system_bondscp_005_003_second_1",
+        "isLotteryTarget": true
+    },
+    {
+        "id": 15918,
+        "ingameCutinCharacterType": "sp",
+        "priority": 200,
+        "gameCharacterUnitId1": 3,
+        "gameCharacterUnitId2": 5,
+        "assetbundleName1": "system_bondscp_003_005_first_1",
+        "assetbundleName2": "system_bondscp_003_005_second_1",
+        "isLotteryTarget": true
+    },
+    {
+        "id": 15919,
+        "ingameCutinCharacterType": "sp",
+        "priority": 200,
+        "gameCharacterUnitId1": 2,
+        "gameCharacterUnitId2": 7,
+        "assetbundleName1": "system_bondscp_002_007_first_1",
+        "assetbundleName2": "system_bondscp_002_007_second_1",
+        "isLotteryTarget": true
+    },
+    {
+        "id": 15920,
+        "ingameCutinCharacterType": "sp",
+        "priority": 200,
+        "gameCharacterUnitId1": 7,
+        "gameCharacterUnitId2": 2,
+        "assetbundleName1": "system_bondscp_007_002_first_1",
+        "assetbundleName2": "system_bondscp_007_002_second_1",
+        "isLotteryTarget": true
+    },
+    {
+        "id": 15921,
+        "ingameCutinCharacterType": "sp",
+        "priority": 200,
+        "gameCharacterUnitId1": 13,
+        "gameCharacterUnitId2": 5,
+        "assetbundleName1": "system_bondscp_013_005_first_1",
+        "assetbundleName2": "system_bondscp_013_005_second_1",
+        "isLotteryTarget": true
+    },
+    {
+        "id": 15922,
+        "ingameCutinCharacterType": "sp",
+        "priority": 200,
+        "gameCharacterUnitId1": 5,
+        "gameCharacterUnitId2": 13,
+        "assetbundleName1": "system_bondscp_005_013_first_1",
+        "assetbundleName2": "system_bondscp_005_013_second_1",
+        "isLotteryTarget": true
     }
 ]
