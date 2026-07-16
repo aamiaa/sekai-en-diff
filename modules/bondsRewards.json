@@ -26061,6 +26061,15 @@
         "description": "「咲希と奏」レアリティ1-1"
     },
     {
+        "id": 10217005,
+        "bondsGroupId": 10217,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1021702,
+        "description": "「咲希と奏」称号文言1"
+    },
+    {
         "id": 10217006,
         "bondsGroupId": 10217,
         "rank": 5,
@@ -26160,6 +26169,14 @@
         "description": "「咲希と奏」レアリティ1-3"
     },
     {
+        "id": 10217017,
+        "bondsGroupId": 10217,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Saki & Kanade Show Call Out Voice 1"
+    },
+    {
         "id": 10217018,
         "bondsGroupId": 10217,
         "rank": 16,
@@ -26248,6 +26265,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1021707,
         "description": "「咲希と奏」レアリティ1-5"
+    },
+    {
+        "id": 10217028,
+        "bondsGroupId": 10217,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1021708,
+        "description": "「咲希と奏」称号文言2"
     },
     {
         "id": 10217029,
@@ -26340,6 +26366,14 @@
         "description": "「咲希と奏」レアリティ2-2"
     },
     {
+        "id": 10217039,
+        "bondsGroupId": 10217,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Saki & Kanade Show Call Out Voice 2"
+    },
+    {
         "id": 10217040,
         "bondsGroupId": 10217,
         "rank": 36,
@@ -26428,6 +26462,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1021712,
         "description": "「咲希と奏」レアリティ2-4"
+    },
+    {
+        "id": 10217050,
+        "bondsGroupId": 10217,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1021713,
+        "description": "「咲希と奏」称号文言3"
     },
     {
         "id": 10217051,
@@ -26520,6 +26563,14 @@
         "description": "「咲希と奏」レアリティ2-6"
     },
     {
+        "id": 10217061,
+        "bondsGroupId": 10217,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Saki & Kanade Show Call Out Voice 3"
+    },
+    {
         "id": 10217062,
         "bondsGroupId": 10217,
         "rank": 56,
@@ -26608,6 +26659,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1021717,
         "description": "「咲希と奏」レアリティ2-8"
+    },
+    {
+        "id": 10217072,
+        "bondsGroupId": 10217,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1021718,
+        "description": "「咲希と奏」キズナスタンプ"
     },
     {
         "id": 10217073,
@@ -43695,6 +43755,15 @@
         "description": "「穂波と瑞希」レアリティ1-1"
     },
     {
+        "id": 10320005,
+        "bondsGroupId": 10320,
+        "rank": 5,
+        "seq": 5,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1032002,
+        "description": "「穂波と瑞希」称号文言1"
+    },
+    {
         "id": 10320006,
         "bondsGroupId": 10320,
         "rank": 5,
@@ -43794,6 +43863,14 @@
         "description": "「穂波と瑞希」レアリティ1-3"
     },
     {
+        "id": 10320017,
+        "bondsGroupId": 10320,
+        "rank": 16,
+        "seq": 17,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Honami & Mizuki Show Call Out Voice 1"
+    },
+    {
         "id": 10320018,
         "bondsGroupId": 10320,
         "rank": 16,
@@ -43882,6 +43959,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1032007,
         "description": "「穂波と瑞希」レアリティ1-5"
+    },
+    {
+        "id": 10320028,
+        "bondsGroupId": 10320,
+        "rank": 26,
+        "seq": 28,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1032008,
+        "description": "「穂波と瑞希」称号文言2"
     },
     {
         "id": 10320029,
@@ -43974,6 +44060,14 @@
         "description": "「穂波と瑞希」レアリティ2-2"
     },
     {
+        "id": 10320039,
+        "bondsGroupId": 10320,
+        "rank": 36,
+        "seq": 39,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Honami & Mizuki Show Call Out Voice 2"
+    },
+    {
         "id": 10320040,
         "bondsGroupId": 10320,
         "rank": 36,
@@ -44062,6 +44156,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1032012,
         "description": "「穂波と瑞希」レアリティ2-4"
+    },
+    {
+        "id": 10320050,
+        "bondsGroupId": 10320,
+        "rank": 46,
+        "seq": 50,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1032013,
+        "description": "「穂波と瑞希」称号文言3"
     },
     {
         "id": 10320051,
@@ -44154,6 +44257,14 @@
         "description": "「穂波と瑞希」レアリティ2-6"
     },
     {
+        "id": 10320061,
+        "bondsGroupId": 10320,
+        "rank": 56,
+        "seq": 61,
+        "bondsRewardType": "cut_in_voice",
+        "description": "Honami & Mizuki Show Call Out Voice 3"
+    },
+    {
         "id": 10320062,
         "bondsGroupId": 10320,
         "rank": 56,
@@ -44242,6 +44353,15 @@
         "bondsRewardType": "resource",
         "resourceBoxId": 1032017,
         "description": "「穂波と瑞希」レアリティ2-8"
+    },
+    {
+        "id": 10320072,
+        "bondsGroupId": 10320,
+        "rank": 66,
+        "seq": 72,
+        "bondsRewardType": "resource",
+        "resourceBoxId": 1032018,
+        "description": "「穂波と瑞希」キズナスタンプ"
     },
     {
         "id": 10320073,
