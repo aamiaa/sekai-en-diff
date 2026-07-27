@@ -47,11 +47,12 @@ jobs:
           secrets: ${{ toJSON(secrets) }}
 
       - name: Run actions
+        id: run_actions
         uses: ./action
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           repository: ./repo
-          commit_message: Automatic update
+          commit_message: App version ${{ steps.run_actions.outputs.app_version }}, data version ${{ steps.run_actions.outputs.data_version }}, asset version ${{ steps.run_actions.outputs.asset_version }}
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
