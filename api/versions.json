@@ -569,10 +569,10 @@
         "systemProfile": "production",
         "appVersion": "5.5.0",
         "multiPlayVersion": "luka",
-        "dataVersion": "5.5.0.10",
-        "assetVersion": "5.5.0.1",
+        "dataVersion": "5.5.0.20",
+        "assetVersion": "5.5.0.20",
         "appHash": "d6f805a4-3d77-4967-91b8-a045d97e756c",
-        "assetHash": "9e70a3d8-6c6c-4c2c-8032-4d632ffb6b23",
+        "assetHash": "f683e3b0-9242-4846-966f-d4be6e8f3127",
         "appVersionStatus": "available"
     }
 ]

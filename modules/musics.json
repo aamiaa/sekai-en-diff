@@ -13157,7 +13157,7 @@
     },
     {
         "id": 583,
-        "seq": 2473201,
+        "seq": 2473301,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -14194,7 +14194,7 @@
     },
     {
         "id": 638,
-        "seq": 1173001,
+        "seq": 1173101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -14218,7 +14218,7 @@
     },
     {
         "id": 639,
-        "seq": 1173101,
+        "seq": 1173201,
         "releaseConditionId": 5,
         "categories": [
             "image"
