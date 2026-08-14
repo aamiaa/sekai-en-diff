@@ -6846,6 +6846,12 @@
         "seq": 0
     },
     {
+        "id": 1310,
+        "musicId": 787,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1324,
         "musicId": 382,
         "musicTag": "vocaloid",
@@ -8708,6 +8714,12 @@
     {
         "id": 1958,
         "musicId": 786,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1959,
+        "musicId": 787,
         "musicTag": "vocaloid",
         "seq": 1
     }
