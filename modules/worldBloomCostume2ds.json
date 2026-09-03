@@ -1,0 +1,26 @@
+[
+    {
+        "id": 17601,
+        "eventId": 176,
+        "gameCharacterId": 5,
+        "costume2dId": 391
+    },
+    {
+        "id": 17602,
+        "eventId": 176,
+        "gameCharacterId": 6,
+        "costume2dId": 392
+    },
+    {
+        "id": 17603,
+        "eventId": 176,
+        "gameCharacterId": 7,
+        "costume2dId": 393
+    },
+    {
+        "id": 17604,
+        "eventId": 176,
+        "gameCharacterId": 8,
+        "costume2dId": 394
+    }
+]

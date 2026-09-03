@@ -4842,6 +4842,12 @@
         "releaseConditionId": 1
     },
     {
+        "id": 50059,
+        "topicType": "rule_slide",
+        "topicTypeId": 63,
+        "releaseConditionId": 1
+    },
+    {
         "id": 50101,
         "topicType": "rule_slide",
         "topicTypeId": 101,

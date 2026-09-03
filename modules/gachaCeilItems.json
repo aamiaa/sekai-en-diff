@@ -3000,6 +3000,14 @@
         "convertResourceBoxId": 2
     },
     {
+        "id": 464,
+        "gachaId": 809,
+        "name": "[It's Back] Photogenic ♡ Valentine Gacha Sticker",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1791918000000,
+        "convertResourceBoxId": 2
+    },
+    {
         "id": 465,
         "gachaId": 810,
         "name": "We're All Tama Friends! Dream Gacha Sticker",
