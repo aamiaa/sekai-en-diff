@@ -504,5 +504,81 @@
         "aggregateAt": 1787281199000,
         "chapterEndAt": 1787281799000,
         "isSupplemental": false
+    },
+    {
+        "id": 17901,
+        "eventId": 179,
+        "gameCharacterId": 23,
+        "worldBloomChapterType": "game_character",
+        "chapterNo": 1,
+        "chapterStartAt": 1788750000000,
+        "aggregateAt": 1788922799000,
+        "chapterEndAt": 1788923399000,
+        "isSupplemental": false
+    },
+    {
+        "id": 17902,
+        "eventId": 179,
+        "gameCharacterId": 21,
+        "worldBloomChapterType": "game_character",
+        "chapterNo": 2,
+        "chapterStartAt": 1788922800000,
+        "aggregateAt": 1789095599000,
+        "chapterEndAt": 1789096199000,
+        "isSupplemental": false
+    },
+    {
+        "id": 17903,
+        "eventId": 179,
+        "gameCharacterId": 24,
+        "worldBloomChapterType": "game_character",
+        "chapterNo": 3,
+        "chapterStartAt": 1789095600000,
+        "aggregateAt": 1789268399000,
+        "chapterEndAt": 1789268999000,
+        "isSupplemental": false
+    },
+    {
+        "id": 17904,
+        "eventId": 179,
+        "gameCharacterId": 25,
+        "worldBloomChapterType": "game_character",
+        "chapterNo": 4,
+        "chapterStartAt": 1789268400000,
+        "aggregateAt": 1789441199000,
+        "chapterEndAt": 1789441799000,
+        "isSupplemental": false
+    },
+    {
+        "id": 17905,
+        "eventId": 179,
+        "gameCharacterId": 26,
+        "worldBloomChapterType": "game_character",
+        "chapterNo": 5,
+        "chapterStartAt": 1789441200000,
+        "aggregateAt": 1789613999000,
+        "chapterEndAt": 1789614599000,
+        "isSupplemental": false
+    },
+    {
+        "id": 17906,
+        "eventId": 179,
+        "gameCharacterId": 22,
+        "worldBloomChapterType": "game_character",
+        "chapterNo": 6,
+        "chapterStartAt": 1789614000000,
+        "aggregateAt": 1789786799000,
+        "chapterEndAt": 1789787399000,
+        "isSupplemental": false
+    },
+    {
+        "id": 18001,
+        "eventId": 180,
+        "worldBloomChapterType": "finale",
+        "chapterNo": 1,
+        "chapterStartAt": 1790391600000,
+        "aggregateAt": 1790650799000,
+        "chapterEndAt": 1790651399000,
+        "isSupplemental": false
     }
 ]
